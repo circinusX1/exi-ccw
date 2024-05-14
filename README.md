@@ -2,6 +2,8 @@
 
 ### Open source hardware
 
+All EasyEda projects including PCB's are in the GIT folders.
+
 This is an active guitar pickup with one coil per string. It has 6 coils.
 Made by ghitara dot com (1000####  Canada LTD), this high-quality pickup is designed to provide exceptional sound and performance. 
 The model sexa-ccw is a perfect choice for those who want to upgrade their guitar's sound. This electric guitar pickup is perfect 
