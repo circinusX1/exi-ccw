@@ -1,5 +1,24 @@
 # 6 Coils Guitar Pickup
 
+### Open source hardware
+
+This is an active guitar pickup with one coil per string. It has 6 coils.
+Made by ghitara dot com (1000####  Canada LTD), this high-quality pickup is designed to provide exceptional sound and performance. 
+The model sexa-ccw is a perfect choice for those who want to upgrade their guitar's sound. This electric guitar pickup is perfect 
+for enhancing the sound of your guitar due low inductance. Eachc oil has between 500 and 800 turns. THe frequency response is beyyer than 
+classic guitar pickups. I did tests on EMG active pickup and Harley Benton Passive. 
+To find more search on youtube '6 coils guitar pickup'
+
+
+
+---
+
+![frequency-response-guitar-graph](https://github.com/circinusX1/sexa-ccw/assets/69641625/6f998b94-56da-473a-8156-6cec2b3ec632)
+
+
+---
+
+
 ### Active pickup, V1
 
 ![sche_6coils](https://github.com/circinusX1/sexa-ccw/assets/69641625/2b5d4f61-82ba-425c-bbf4-3223ea398ee7)
