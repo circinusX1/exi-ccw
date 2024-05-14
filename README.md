@@ -1,2 +1,2 @@
 # sexa-ccw
-6 coils guitar pickup
+# 6 coils guitar pickup
