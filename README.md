@@ -5,10 +5,10 @@
 All EasyEda projects including PCB's are in the GIT folders.
 
 This is an active guitar pickup with one coil per string. It has 6 coils.
-Made by ghitara dot com (1000####  Canada LTD), this high-quality pickup is designed to provide exceptional sound and performance. 
+Made by ghitara dot com (10002852-Canada LTD), this high-quality pickup is designed to provide exceptional sound and performance. 
 The model sexa-ccw is a perfect choice for those who want to upgrade their guitar's sound. This electric guitar pickup is perfect 
 for enhancing the sound of your guitar due low inductance. Each coil has between 500 and 800 turns. The frequency response is better than 
-classic guitar pickups. I did tests on EMG active pickup and Harley Benton Passive, see the Bode diagrams below. 
+classic guitar pickups. I did tests on EMG active pickup and Harley Benton Passive, see Bode diagrams below. 
 To find more search on youtube '6 coils guitar pickup'
 
 
