@@ -1,0 +1,265 @@
+{
+  "uuid": "110a5c3f3ca21c96268fa2ca89d554d8",
+  "path": "Offline/tl071-preamp",
+  "name": "tl071-preamp",
+  "content": "",
+  "created_at": "2024-03-24 13:49:56",
+  "updated_at": "2024-05-14 09:45:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "88d4e0e575d1fe4bfd19b4a9b55ed3ac",
+      "title": "small_preamp",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 8,
+        "07d9b10260a54feb89de280fb06c2313": 1,
+        "4be50b92e47b4f88a54e127c17ce78cb": 2,
+        "e545f26e87c74952857381bd0bff848e": 5,
+        "404aa9221ff94de597b8734806e7c74f": 6,
+        "0b65abe55b37496eaa9a84fd9c05919c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "O",
+          6,
+          "HDR-M-2.54_1X1",
+          "&#126;,+,-,G1,I1,I2",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "6.8k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "39k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          1,
+          "R0603",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "500k",
+          1,
+          "RES-ADJ-TH_3362X",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Value(Ω)": "10k",
+            "puuid": "f890a6b9fa8648faabbf4a0d8a69bb66",
+            "uuid": "0b65abe55b37496eaa9a84fd9c05919c"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1715034282,
+      "createTime": 1711302596,
+      "histories": [],
+      "created_at": "2024-03-24 13:49:56",
+      "updated_at": "2024-05-06 18:24:42"
+    },
+    {
+      "uuid": "60fe7692a787a4aee70b3e02fef33782",
+      "puuid": "110a5c3f3ca21c96268fa2ca89d554d8",
+      "title": "PCB_small_preamp",
+      "filename": "PCB_small_preamp.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 6,
+        "f890a6b9fa8648faabbf4a0d8a69bb66": 1
+      },
+      "BOM": [],
+      "updateTime": 1715272271,
+      "createTime": 1711303207,
+      "histories": [],
+      "created_at": "2024-03-24 14:00:07",
+      "updated_at": "2024-05-09 12:31:11"
+    }
+  ],
+  "sort": [],
+  "title": "tl071-preamp",
+  "foldername": "tl071-preamp",
+  "schfilename": "tl071-preamp.json",
+  "schfilemtime": 1715034282715
+}

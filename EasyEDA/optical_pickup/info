@@ -1,0 +1,234 @@
+{
+  "uuid": "da1a7ed50ecc9afd839c756826bc18c7",
+  "path": "Offline/optical_pickup",
+  "name": "optical_pickup",
+  "content": "",
+  "created_at": "2023-07-27 09:55:03",
+  "updated_at": "2024-05-14 09:38:27",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "283383dafef1f8f7c05d966e1845aa45",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c7769faac45b4fad86b520ccac35a04d": 1,
+        "bb009484ef804a24ac5d18c54b249586": 6,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 1,
+        "12960228eb8c4ddeaecb1ef105b9e058": 1,
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "0b65abe55b37496eaa9a84fd9c05919c": 2,
+        "404aa9221ff94de597b8734806e7c74f": 3,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "R_3296W_EU",
+          2,
+          "RES-ADJ-TH_3296W",
+          "1K,50K",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Value(Ω)": "10k",
+            "puuid": "5e404972447a403ca43a83aeb15e254e",
+            "uuid": "0b65abe55b37496eaa9a84fd9c05919c"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "10K,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C2,C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "100u",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          3,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "ZPT054B",
+          1,
+          "LED-TH_BD5.9-RD_DY-PT334-6B",
+          "LED1",
+          {
+            "BOM_Manufacturer Part": "ZPT054B",
+            "puuid": "60cfe00cb38844a7b355fc2d7671805e",
+            "uuid": "12960228eb8c4ddeaecb1ef105b9e058",
+            "BOM_Supplier Part": "C575323",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Chau Light"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED-TH_BD5.0_RED",
+          "LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R0603",
+          "R3,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "470",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "LM741M/TR",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "LM741M/TR",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "c7769faac45b4fad86b520ccac35a04d",
+            "BOM_Supplier Part": "C356704",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HGSEMI(华冠)"
+          }
+        ]
+      ],
+      "updateTime": 1690469918,
+      "createTime": 1690466103,
+      "histories": [],
+      "created_at": "2023-07-27 09:55:03",
+      "updated_at": "2023-07-27 10:58:38"
+    },
+    {
+      "uuid": "8cea02fff11454e757bab6c56c6c10ff",
+      "puuid": "da1a7ed50ecc9afd839c756826bc18c7",
+      "title": "PCB_pickup6_2",
+      "filename": "PCB_pickup6_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "5e404972447a403ca43a83aeb15e254e": 2,
+        "398691f1f785460098bbe5ee6590333c": 6,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "60cfe00cb38844a7b355fc2d7671805e": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [],
+      "updateTime": 1690469810,
+      "createTime": 1690468147,
+      "histories": [],
+      "created_at": "2023-07-27 10:29:07",
+      "updated_at": "2023-07-27 10:56:50"
+    }
+  ],
+  "sort": [],
+  "title": "optical_pickup",
+  "foldername": "optical_pickup",
+  "schfilename": "optical_pickup.json",
+  "schfilemtime": 1690469918729
+}
