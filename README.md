@@ -31,10 +31,6 @@ To find more search on youtube '6 coils guitar pickup'
 
 ---
 
- [ORDER & BUY HERE V2](https://ghitara.com/?p=_sexa_ccw.php)
-
----
-
 ### Guitar preamplifier
 
 ![p_preamp_pickup](https://github.com/circinusX1/sexa-ccw/assets/69641625/39306ad6-bfc7-4342-b26f-afd0f1829d24)
