@@ -61,6 +61,15 @@ To find more search on youtube '6 coils guitar pickup'
 
 
 ---
+
+[VIDEO 1](https://www.youtube.com/watch?v=PKX4ls18GiM)
+
+[VIDEO 2](https://www.youtube.com/watch?v=29cAE45jkJk)
+
+[VIDEO 3](https://www.youtube.com/watch?v=EW_jxvgFBk8)
+
+[ORDER & BUY HERE V2](https://ghitara.com/?p=_sexa_ccw.php)
+
 ---
 
 By: Marius C.
