@@ -59,12 +59,11 @@ To find more search on youtube '6 coils guitar pickup'
 ---
 
 
-[VIDEO Version 2/3](https://www.youtube.com/watch?v=29cAE45jkJk)
+[DEMO Version 2/3 with TL071 ](https://www.youtube.com/watch?v=29cAE45jkJk)
 
-[VIDEO Version 1](https://www.youtube.com/watch?v=PKX4ls18GiM)
+[DEMOVersion 1 with Transistor](https://www.youtube.com/watch?v=PKX4ls18GiM)
 
-[VIDEO BETA Version](https://www.youtube.com/watch?v=EW_jxvgFBk8)
-
+[DEMO BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
 [ORDER & BUY HERE Version 3](https://ghitara.com/?p=_sexa_ccw.php)
 
