@@ -1,6 +1,5 @@
 # 6 Coils Guitar Pickup
 
-### Open source hardware
 
 All EasyEda projects including PCB's are in the GIT folders.
 
