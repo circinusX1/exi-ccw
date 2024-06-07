@@ -1,5 +1,7 @@
 # 6 Coils Guitar Pickup
 
+## [NO HUM] [HIGH RESPONSE] [BETTER SEPARATION] [LESS HARMONICS] [MUDDY SOUND GONE] 
+
 
 All EasyEda projects including PCB's are in the GIT folders.
 
