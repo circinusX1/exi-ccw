@@ -51,7 +51,7 @@ To find more search on youtube '6 coils guitar pickup'
 ---
 
 #### V3 sexa-ccw
-
+#### Six coils guitar pickup
 
 ![image](https://github.com/user-attachments/assets/c40525b2-a8d5-46ec-9056-4cb1f14fca5d)
 
@@ -62,12 +62,13 @@ To find more search on youtube '6 coils guitar pickup'
 ---
 
 
-[DEMO Version 2/3 with TL071 ](https://www.youtube.com/watch?v=29cAE45jkJk)
+[Version 2/3 with TL071 ](https://www.youtube.com/watch?v=29cAE45jkJk)
 
-[DEMOVersion 1 with Transistor](https://www.youtube.com/watch?v=PKX4ls18GiM)
+[Version 1 with Transistor](https://www.youtube.com/watch?v=PKX4ls18GiM)
 
-[DEMO BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
+[BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
+### ORDER SEXA-CCW (SIX COIL GUIAR PICKUP) 
 [ORDER & BUY HERE Version 3](https://ghitara.com/?p=_sexa_ccw.php)
 
 ---
