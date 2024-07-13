@@ -41,20 +41,19 @@ To find more search on youtube '6 coils guitar pickup'
 
 ### Version 3 (ccw)
 
-![ccw-ccw](https://github.com/circinusX1/sexa-ccw/assets/69641625/705334d1-1f78-4508-b1aa-072ef6adda7b)
+![image](https://github.com/user-attachments/assets/c593cb34-b200-4854-a478-e2b0e44d5315)
+![image](https://github.com/user-attachments/assets/a41f01c0-444c-4df5-81fc-3c93e350d9fb)
 
-![pick_ccw_1](https://github.com/circinusX1/sexa-ccw/assets/69641625/149950e2-94ec-436f-96f5-01bc58652f33)
-
-
-#### from pcb to case
-
-![pick_seq](https://github.com/circinusX1/sexa-ccw/assets/69641625/caf1bd12-a4d6-47eb-b519-b1b35704c5af)
 
 ---
 
 #### V3 sexa-ccw
 
-![pick_v3](https://github.com/circinusX1/sexa-ccw/assets/69641625/90c53b04-8858-478b-84e9-50dcb3daaf10)
+
+![image](https://github.com/user-attachments/assets/c40525b2-a8d5-46ec-9056-4cb1f14fca5d)
+
+![image](https://github.com/user-attachments/assets/9b46a934-4dea-45ee-b6f2-2f7878c27902)
+
 
 
 ---
