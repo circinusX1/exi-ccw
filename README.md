@@ -11,6 +11,7 @@ The model sexa-ccw is a perfect choice for those who want to upgrade their guita
 for enhancing the sound of your guitar due low inductance. Each coil has between 500 and 800 turns. The frequency response is better than 
 classic guitar pickups. I did tests on EMG active pickup and Harley Benton Passive, see Bode diagrams below. 
 To find more search on youtube '6 coils guitar pickup'
+It has higher response towards lower frequencies than a regular pickup.
 
 
 
