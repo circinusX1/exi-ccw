@@ -69,8 +69,10 @@ It has higher response towards lower frequencies than a regular pickup.
 
 [BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
-### ORDER SEXA-CCW (SIX COIL GUIAR PICKUP) 
+
+### LINKS 
 [you can also visit ghitara.com](https://ghitara.com)
+
 [you can also visit exicoil.from-ca.com](https://exicoil.from-ca.com/)
 
 ---
