@@ -44,8 +44,6 @@ It has higher response towards lower frequencies than a regular pickup.
 
 #### Six coils guitar pickup
 
-![6 coils guitar pickup](https://github.com/user-attachments/assets/c593cb34-b200-4854-a478-e2b0e44d5315)
-
 ![sexa-ccw](https://github.com/user-attachments/assets/a41f01c0-444c-4df5-81fc-3c93e350d9fb)
 
 
