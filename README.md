@@ -50,12 +50,6 @@ To find more search on youtube '6 coils guitar pickup'
 
 ---
 
-#### V3 sexa-ccw
-
-![pick_v3](https://github.com/circinusX1/sexa-ccw/assets/69641625/90c53b04-8858-478b-84e9-50dcb3daaf10)
-
-
----
 
 
 [DEMO Version 2/3 with TL071 ](https://www.youtube.com/watch?v=29cAE45jkJk)
