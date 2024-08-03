@@ -1,6 +1,7 @@
 # 6 Coils Guitar Pickup
 
 
+
 All EasyEda projects including PCB's are in the GIT folders.
 
 This is an active guitar pickup with one coil per string. It has 6 coils.
