@@ -75,6 +75,9 @@ It has higher response towards lower frequencies than a regular pickup.
 
 [you can also visit exicoil.from-ca.com](https://exicoil.from-ca.com/)
 
+[on ebay as well](https://www.ebay.ca/itm/226233340158?itmmeta=01J4B4V59SXRWYSBCMXESRFBAE&hash=item34ac8ed0fe:g:Lw0AAOSwU1RmEXRl&itmprp=enc%3AAQAJAAAA8BaX0iMXkKlX5AH6C5%2BTvFTOtZBDhO8wComS%2BGQLQGYajamcaGLGLXhbWDaGm9Ja9d5cOlWLdTrrUPDF29R9F6PzAC8IhfB7VDGXYmBtFjzA3eFaWl9uGdU8Z9UBDqMEQ7gcYOD%2FDntynpznBjgCbyFCP9yfKcpaDcnx8laFK0HQy0bnaX72Xhucahx4b%2BKEtf4NnY3UZVzsKsSisQlt%2BftnfQW8LQxj93GE0oNVAspACqTw0vB25xPyQf2YeY2Tk6xY3aLq3vHWOlURrGdnC4idO%2FkkV3BGGMY7fWI3rUbeZh7bb5sQQvbgUExLeFa9sg%3D%3D%7Ctkp%3ABk9SR4DV7OSiZA)
+
+
 ---
 
 By: Marius C.
