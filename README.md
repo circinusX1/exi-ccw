@@ -69,8 +69,8 @@ To find more search on youtube '6 coils guitar pickup'
 [BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
 ### ORDER SEXA-CCW (SIX COIL GUIAR PICKUP) 
-[ORDER & BUY HERE Version 3](https://ghitara.com)
-[ORDER & BUY HERE Version 3](https://exicoil.from-ca.com/)
+[you can also visit ghitara.com](https://ghitara.com)
+[you can also visit exicoil.from-ca.com](https://exicoil.from-ca.com/)
 
 ---
 
