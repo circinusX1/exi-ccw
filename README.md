@@ -13,6 +13,7 @@ classic guitar pickups. I did tests on EMG active pickup and Harley Benton Passi
 To find more search on youtube '6 coils guitar pickup'
 
 
+[STL 3d MODEL](https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl)
 
 ---
 
