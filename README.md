@@ -32,25 +32,9 @@ To find more search on youtube '6 coils guitar pickup'
 
 ---
 
-### Guitar preamplifier
-
-![p_preamp_pickup](https://github.com/circinusX1/sexa-ccw/assets/69641625/39306ad6-bfc7-4342-b26f-afd0f1829d24)
-
 
 ---
 
-### Version 3 (ccw)
-
-![ccw-ccw](https://github.com/circinusX1/sexa-ccw/assets/69641625/705334d1-1f78-4508-b1aa-072ef6adda7b)
-
-![pick_ccw_1](https://github.com/circinusX1/sexa-ccw/assets/69641625/149950e2-94ec-436f-96f5-01bc58652f33)
-
-
-#### from pcb to case
-
-![pick_seq](https://github.com/circinusX1/sexa-ccw/assets/69641625/caf1bd12-a4d6-47eb-b519-b1b35704c5af)
-
----
 
 #### V3 sexa-ccw
 
