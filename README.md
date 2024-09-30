@@ -40,6 +40,9 @@ To find more search on youtube '6 coils guitar pickup'
 
 ---
 
+![image](https://github.com/user-attachments/assets/b8a5d370-a5ae-42d9-b2ab-b33b3e6394ff)
+
+
 
 ### Active pickup, V1
 
