@@ -79,3 +79,11 @@ To find more search on youtube '6 coils guitar pickup'
 By: Marius C.
 
 
+### Wiring, as any humbucker active pickup:
+![hum_pickup_schem](https://github.com/user-attachments/assets/ab6aecd4-c662-405d-a481-3dcc77360dc5)
+
+
+
+
+
+
