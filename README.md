@@ -33,7 +33,16 @@ To find more search on youtube '6 coils guitar pickup'
  
 ---
 
-  * Frequency response 
+  * Frequency response
+
+    Here Ive tested couple of pickups I had handy in the range of 100 to 15 Khz. The probe is a coil with almost
+    0 inductance to to avoid low frewquency resonance and is made of 140 turns of 0.1mm wire on a wood coffe stiring stick.
+
+See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
+
+
+    
+
 
 ![frequency-response-guitar-graph](https://github.com/circinusX1/sexa-ccw/assets/69641625/6f998b94-56da-473a-8156-6cec2b3ec632)
 
