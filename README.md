@@ -2,16 +2,6 @@
 ## EXI-CCW, Six Continous Coils Winding guitar pickup
 
 
-
-### Single or dual coil pickups problems
-A regular pickup coil is extremely inefficient. The shape of the coil is elongated along all strings.This decreases the coil inductance, actually you barely can calculate the inductance of such a coil. A second factor is the permeability of the mixed plastic and string iron nuts. 70% of the inner core is plastic. The whole core adds up to 480 .. 500 squared mm. The nuts area is: 6(nuts) x PI x 2.5mm(radius)^2 → 110..120 squared mm. This represents 25%. To compensate such inneficiency the coil has around 6000 .. 8000 turns, with a wire which adds up a lot of capacitance and resitance. Such a coil has 1.8 to 2.5 Henrys. A humbucker dual coil would be double, like 4..5 Henrys. 
-
-
-![image](https://github.com/user-attachments/assets/ceea8f12-f662-4d90-ba2e-e98fb5aa3d4b)
-
-This huge number of turns adds up parasite capacitance. This makes the standard pickup sound dull and muddy. Exi coil uses 6 separate coils with 99% full iron core. Exi pickup achieves same inductance with 10 times fewer turns. Coils turns tunning and proper phasing and assembly makes the magnetic field uniform across the pickup. Exi-pickup has 10 times less turns, reduced capacitance, the sound is much clean and the muddy effect is almost gone. 
-
-
 ![image](https://github.com/user-attachments/assets/ca5b63ca-f233-49d9-9ac0-92193ab9462f)
 
 
@@ -83,6 +73,21 @@ By: Marius C.
 ![hum_pickup_schem](https://github.com/user-attachments/assets/ab6aecd4-c662-405d-a481-3dcc77360dc5)
 
 
+
+
+
+
+## One or double coil standard guitar pickups overview
+
+
+
+### Single or dual coil pickups problems
+A regular pickup coil is extremely inefficient. The shape of the coil is elongated along all strings.This decreases the coil inductance, actually you barely can calculate the inductance of such a coil. A second factor is the permeability of the mixed plastic and string iron nuts. 70% of the inner core is plastic. The whole core adds up to 480 .. 500 squared mm. The nuts area is: 6(nuts) x PI x 2.5mm(radius)^2 → 110..120 squared mm. This represents 25%. To compensate such inneficiency the coil has around 6000 .. 8000 turns, with a wire which adds up a lot of capacitance and resitance. Such a coil has 1.8 to 2.5 Henrys. A humbucker dual coil would be double, like 4..5 Henrys. 
+
+
+![image](https://github.com/user-attachments/assets/ceea8f12-f662-4d90-ba2e-e98fb5aa3d4b)
+
+This huge number of turns adds up parasite capacitance. This makes the standard pickup sound dull and muddy. Exi coil uses 6 separate coils with 99% full iron core. Exi pickup achieves same inductance with 10 times fewer turns. Coils turns tunning and proper phasing and assembly makes the magnetic field uniform across the pickup. Exi-pickup has 10 times less turns, reduced capacitance, the sound is much clean and the muddy effect is almost gone. 
 
 
 
