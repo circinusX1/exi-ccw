@@ -127,12 +127,18 @@ overview
 
 ## One or Double coil standard guitar pickups comments
 
+Standard guitar pickup core is mostly plastic (75%). The active iron adds up up 30% in few cases,
+but 90% of the pickups core is 24..26% being extremely inneificient. 
+This tehnology is a century old and has not evolved a bit. With new modern low noise IC's
+this can be improved as I said above. Here are the drawbacks of such a bad old tehnology.
+
 
 ![filling-factor](https://github.com/user-attachments/assets/97ca918b-d1ad-4c51-9ae8-c7bfb1c99bd2)
 
 
 
 ### Single or dual coil pickups problems
+
 A regular pickup coil is extremely inefficient. The shape of the coil is elongated along all strings.This decreases the coil inductance, actually you barely can calculate the inductance of such a coil. A second factor is the permeability of the mixed plastic and string iron nuts. 70% of the inner core is plastic. The whole core adds up to 480 .. 500 squared mm. The nuts area is: 6(nuts) x PI x 2.5mm(radius)^2 → 110..120 squared mm. This represents 25%. To compensate such inneficiency the coil has around 6000 .. 8000 turns, with a wire which adds up a lot of capacitance and resitance. Such a coil has 1.8 to 2.5 Henrys. A humbucker dual coil would be double, like 4..5 Henrys. 
 
 
