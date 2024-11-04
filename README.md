@@ -4,7 +4,7 @@
 EXI -  SIX in Greek.
 CCW -  Continuous Coils Winding, 
 
-The coils / diffferential input of the OP amp have no soldering between the coils (less noise). 
+The coils have no soldering between them, the wire runs from one coil to another as seen in the picture to reduce the ouse and asure high quality sound. 
 
 
 ![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)See Guitar maxim frequencies chart here: 
