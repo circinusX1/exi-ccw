@@ -1,6 +1,12 @@
 # 6 Coils Guitar Pickup
 ## EXI-CCW, Six Continous Coils Winding guitar pickup
 
+CCW -  Continous Coils Winding, 
+The coils triplet per diffferential input of the OP amp have no soldering between the coils to reduce the noise.
+
+
+![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)
+
 
 ### LESS HUM, BETTER PICK ATTACK, STRING SEPARATION, LESS HARMONICS, MUDDY SOUND GONE 
 
