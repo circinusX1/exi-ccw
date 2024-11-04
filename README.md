@@ -6,6 +6,7 @@ CCW -  Continuous Coils Winding,
 
 The coil winding wiring from one to another has no soldering (Wow!). The wire runs from one coil 
 to another continuously as can be seen in the picture. This is to reduce noise and to ensure high-quality sound.
+As the 'guitar pickup' is stuck in a century old tehnology, I am proposing a new approach to guitar pickups.
 
 
 ![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)See Guitar maxim frequencies chart here: 
@@ -158,6 +159,7 @@ This huge number of turns adds up parasite capacitance. This makes the standard 
 ### Issues, Help 
    * https://github.com/circinusX1/exi-ccw/issues
 
-
+### P.S.
+_This is not s_
 
 
