@@ -1,8 +1,8 @@
 # 6 Coils Guitar Pickup
-## EXI-CCW, Six Continous Coils Winding guitar pickup
+## EXI-CCW, Six Continuous Coils Winding guitar pickup
 
 EXI -  SIX in Greek.
-CCW -  Continous Coils Winding, 
+CCW -  Continuous Coils Winding, 
 
 The coils / diffferential input of the OP amp have no soldering between the coils (less noise). 
 
