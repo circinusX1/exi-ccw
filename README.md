@@ -20,14 +20,26 @@ To find more search on youtube '6 coils guitar pickup'
 
 [STL 3d MODEL](https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl)
 
+
+ 
 ---
+
+  * Frequency response
 
 ![frequency-response-guitar-graph](https://github.com/circinusX1/sexa-ccw/assets/69641625/6f998b94-56da-473a-8156-6cec2b3ec632)
 
 
 ---
 
+
 ![image](https://github.com/user-attachments/assets/b8a5d370-a5ae-42d9-b2ab-b33b3e6394ff)
+
+
+   * Signal to Noise ratio measurements SNR > 40dB
+
+![snr_measurements](https://github.com/user-attachments/assets/9e77f4ac-187c-401d-b68d-649ec1bbebdc)
+
+     
 
 
 
