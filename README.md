@@ -25,7 +25,7 @@ To find more search on youtube '6 coils guitar pickup'
 
 # EXI-CCW, Six Continous Coils Winding guitar pickup
 
-   * Magnetic field distribution
+ 
 
 [STL 3d MODEL](https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl)
 
@@ -48,7 +48,7 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 
 ---
-
+  * Magnetic field distribution
 
 ![image](https://github.com/user-attachments/assets/b8a5d370-a5ae-42d9-b2ab-b33b3e6394ff)
 
