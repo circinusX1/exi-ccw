@@ -36,7 +36,7 @@ To find more search on youtube '6 coils guitar pickup'
 ---
   * Frequency response and cutoff
 
-Here are typical freqencies ranges for different instruments. An electric guitar max is about 1.2Khz, If we include th eharmonics 
+Here are typical freqencies ranges for different instruments. An electric guitar max is about 1.2Khz, If we include the harmonics 
 we can consider it will go up to 4..6Khz. All studios would cut off a guitar before processing at 4 or 6.
 
  ![freq_ranges7](https://github.com/user-attachments/assets/84ee54c9-d4f3-42eb-9eab-dfd46383acb1)
