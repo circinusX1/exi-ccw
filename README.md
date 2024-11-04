@@ -164,8 +164,8 @@ This huge number of turns adds up parasite capacitance. This makes the standard 
 _This is not just a random project. I have a degree in Electrical science and a post univerisy degree in apllied electronics from 
 the Univeristy of Cluj Napoca. I built my first AM radio when I was 8 years old, my first aplifier at 11, then radio jammers, metal detectors,
 human presence detectors, sound controleed relays, TX-RX remote models and so on.
-My first passive guitar pickup installed on a wooden guitar at 16. Before univeristy I get to this [HighSchool](https://www.youtube.com/watch?v=VV8N7t0PHKg) doing all klind of electronics.
-Then all kinds of electronics for fun, especially power amps and low preamps for tape players_ 
+My first passive guitar pickup installed on a wooden guitar at 16. 
+Before univeristy I get to this [HighSchool](https://www.youtube.com/watch?v=VV8N7t0PHKg) doing all kinds of audio projects_ 
 
 
 
