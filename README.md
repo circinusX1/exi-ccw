@@ -4,8 +4,8 @@
 EXI -  SIX in Greek.
 CCW -  Continuous Coils Winding, 
 
-The coils windings from one to another have no soldering (WOW!), the wire runs from one coil to 
-another as can be seen in the picture. This is to reduce noise and to ensure high quality sound. 
+The coil winding wiring from one to another has no soldering (Wow!). The wire runs from one coil to another
+continuously as can be seen in the picture. This is to reduce noise and to ensure high-quality sound.
 
 
 ![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)See Guitar maxim frequencies chart here: 
