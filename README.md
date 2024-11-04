@@ -25,25 +25,24 @@ To find more search on youtube '6 coils guitar pickup'
 
 # EXI-CCW, Six Continous Coils Winding guitar pickup
 
- 
+
+### 3D casing models
 
 [STL 3d MODEL](https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl)
 
 
- ![freq_ranges7](https://github.com/user-attachments/assets/84ee54c9-d4f3-42eb-9eab-dfd46383acb1)
+### Performance
 
 ---
   * Frequency response and cutoff
 
+ ![freq_ranges7](https://github.com/user-attachments/assets/84ee54c9-d4f3-42eb-9eab-dfd46383acb1)
 
 
      * Original document: http://guitarbuilding.org/wp-content/uploads/2014/06/Instrument-Sound-EQ-Chart.pdf
 
 
-  * Frequency response
-   
-
-
+#### Frequency response
 
        
 
@@ -60,10 +59,16 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 ![frequency-response-guitar-graph](https://github.com/circinusX1/sexa-ccw/assets/69641625/6f998b94-56da-473a-8156-6cec2b3ec632)
 
 
+
 ---
-  * Magnetic field distribution
+
+#### Magnetic field distribution
 
 ![image](https://github.com/user-attachments/assets/b8a5d370-a5ae-42d9-b2ab-b33b3e6394ff)
+
+
+
+#### SNR
 
 
    * Signal to Noise ratio measurements (Left Side: noise [Pickup, cables, Probe] in dB, Right All strings hit signal dB) SNR > 45dB
@@ -72,7 +77,6 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 ![snr_measurements](https://github.com/user-attachments/assets/9e77f4ac-187c-401d-b68d-649ec1bbebdc)
 
      
-
 
 
 ### Active pickup, V1
