@@ -7,7 +7,7 @@ CCW -  Continous Coils Winding,
 The coils / diffferential input of the OP amp have no soldering between the coils (less noise). 
 
 
-![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)
+![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)See Guitar maxim frequencies chart here: 
 
 
 ### LESS HUM, BETTER PICK ATTACK, STRING SEPARATION, LESS HARMONICS, MUDDY SOUND GONE 
@@ -30,10 +30,22 @@ To find more search on youtube '6 coils guitar pickup'
 [STL 3d MODEL](https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl)
 
 
- 
+ ![freq_ranges7](https://github.com/user-attachments/assets/84ee54c9-d4f3-42eb-9eab-dfd46383acb1)
+
 ---
+  * Frequency response and cutoff
+
+
+
+     * Original document: http://guitarbuilding.org/wp-content/uploads/2014/06/Instrument-Sound-EQ-Chart.pdf
+
 
   * Frequency response
+   
+
+
+
+       
 
     Here Ive tested couple of pickups I had handy in the range of 100 to 15 Khz. The probe is a coil with almost
     0 inductance was made as: 140..160 turns of 0.1mm wire on a wood coffe stiring stick.
