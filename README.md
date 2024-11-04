@@ -2,9 +2,6 @@
 ## EXI-CCW, Six Continous Coils Winding guitar pickup
 
 
-![image](https://github.com/user-attachments/assets/ca5b63ca-f233-49d9-9ac0-92193ab9462f)
-
-
 ### LESS HUM, BETTER PICK ATTACK, STRING SEPARATION, LESS HARMONICS, MUDDY SOUND GONE 
 
 
@@ -67,7 +64,7 @@ To find more search on youtube '6 coils guitar pickup'
 ---
 
 By: Marius C.
-
+overview
 
 ### Wiring, as any humbucker active pickup:
 ![hum_pickup_schem](https://github.com/user-attachments/assets/ab6aecd4-c662-405d-a481-3dcc77360dc5)
@@ -77,7 +74,10 @@ By: Marius C.
 
 
 
-## One or double coil standard guitar pickups overview
+## One or Double coil standard guitar pickups comments
+
+
+![image](https://github.com/user-attachments/assets/ca5b63ca-f233-49d9-9ac0-92193ab9462f)
 
 
 
