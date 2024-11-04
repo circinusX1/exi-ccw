@@ -13,7 +13,7 @@ The coils / diffferential input of the OP amp have no soldering between the coil
 ### LESS HUM, BETTER PICK ATTACK, STRING SEPARATION, LESS HARMONICS, MUDDY SOUND GONE 
 
 
-All EasyEda projects including PCB's are in the GIT folders.
+All EasyEda PCB's for different version are in EadyEDA folder.
 
 This is an active guitar pickup with one coil per string. It has 6 coils.
 Made by ghitara dot com, this high-quality pickup is designed to provide exceptional sound and performance. 
