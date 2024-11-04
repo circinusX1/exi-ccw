@@ -37,6 +37,7 @@ To find more search on youtube '6 coils guitar pickup'
 
     Here Ive tested couple of pickups I had handy in the range of 100 to 15 Khz. The probe is a coil with almost
     0 inductance was made as: 140..160 turns of 0.1mm wire on a wood coffe stiring stick.
+    The yellow one is the EXI-CCW, Excuse the spelling
 
 See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
