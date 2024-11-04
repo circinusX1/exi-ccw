@@ -148,14 +148,14 @@ This huge number of turns adds up parasite capacitance. This makes the standard 
 
 
 ### Order and buy
-https://exicoil.from-ca.com/
-https://www.ebay.ca/itm/226431325173
-https://www.ebay.ca/itm/226431719766
-https://www.ebay.ca/itm/226431844051
-https://www.kijiji.ca/v-view-details.html?adId=1705665369
+   * https://exicoil.from-ca.com/
+   * https://www.ebay.ca/itm/226431325173
+   * https://www.ebay.ca/itm/226431719766
+   * https://www.ebay.ca/itm/226431844051
+   * https://www.kijiji.ca/v-view-details.html?adId=1705665369
 
 ### Issues, Help 
-https://github.com/circinusX1/exi-ccw/issues
+   * https://github.com/circinusX1/exi-ccw/issues
 
 
 
