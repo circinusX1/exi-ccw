@@ -128,7 +128,7 @@ overview
 ## One or Double coil standard guitar pickups comments
 
 
-![image](https://github.com/user-attachments/assets/ca5b63ca-f233-49d9-9ac0-92193ab9462f)
+![filling-factor](https://github.com/user-attachments/assets/97ca918b-d1ad-4c51-9ae8-c7bfb1c99bd2)
 
 
 
