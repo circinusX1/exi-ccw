@@ -1,4 +1,4 @@
-# 6 Coils Guitar Pickup
+a# 6 Coils Guitar Pickup
 ## EXI-CCW, Six Continuous Coils Winding guitar pickup
 
 EXI -  SIX in Greek.Then all kinds of electronics for fun
@@ -165,7 +165,7 @@ _This is not just a random project. I have a degree in Electrical science and a 
 the Univeristy of Cluj Napoca. I built my first AM radio when I was 8 years old, my first aplifier at 11, then radio jammers, metal detectors,
 human presence detectors, sound controleed relays, TX-RX remote models and so on.
 My first passive guitar pickup installed on a wooden guitar at 16. 
-Before univeristy I get to this [In the 1980 - HighSchool](https://www.youtube.com/watch?v=VV8N7t0PHKg) doing all kinds of audio projects_ 
+Before univeristy I get to this [In the 1980 - HighSchool]([https://www.youtube.com/watch?v=VV8N7t0PHKg](https://youtu.be/VV8N7t0PHKg?t=302)) doing all kinds of audio projects_ 
 
 
 
