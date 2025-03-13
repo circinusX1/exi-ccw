@@ -1,6 +1,5 @@
 a# 6 Coils Guitar Pickup
 ## EXI-CCW, Six Continuous Coils Winding guitar pickup
-##                  === EXI-CCW CLEAR SOUND === 
 
 
 EXI -  SIX 
@@ -26,14 +25,14 @@ The wire runs from one coil to another continuously (see the picture). This redu
 All EasyEda PCB's for different version are in EadyEDA folder.
 
 This is an active guitar pickup with one coil per string. It has 6 coils.
-Made by me (sponsored by ghitara.com), this high-quality pickup is designed to provide exceptional sound and performance. 
-The model sexa-ccw is a perfect choice for those who want to upgrade their guitar's sound. This electric guitar pickup is perfect 
-for enhancing the sound of your guitar due low inductance. Each coil has between 500 and 800 turns. The frequency response is better than 
-classic guitar pickups. I did tests on EMG active pickup and Harley Benton Passive, see Bode diagrams below. 
-To find more search on youtube '6 coils guitar pickup'
+This high-quality pickup is designed to provide exceptional sound and performance. 
+The model sexa-ccw is a perfect choice for those who want to upgrade their guitar's sound. 
+This electric guitar pickup is perfect for enhancing the sound of your guitar due low inductance. 
+Each coil has between 800-900 turns. 
+The frequency response is better than classic guitar pickups (see images). 
 
-
-# EXI-CCW, Six Continous Coils Winding guitar pickup
+I did tests on EMG active pickup and Harley Benton Passive, see Bode diagrams below. 
+To find more search on youtube '6 coils guitar pickup or EXI-CCW'
 
 
 ### 3D casing models
@@ -56,21 +55,19 @@ we can consider it will go up to 4..6Khz. All studios would cut off a guitar bef
 
 
 #### Frequency response
-
        
 
-    Here Ive tested couple of pickups I had handy in the range of 100 to 15 Khz. The probe is a coil with almost
-    0 inductance was made as: 140..160 turns of 0.1mm wire on a wood coffe stiring stick.
-    The yellow one is the EXI-CCW, Excuse the spelling
+    Here Ive tested couple of pickups I had handy in the range of 100 to 15 Khz. 
+    The probe is a coil with almost 0 inductance was made as: 140..160 turns of 
+        0.1mm wire on a wood coffe stiring stick.
+    The yellow line represent the the EXI-CCW response.
 
 See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
-
-    
+  
 
 
 ![frequency-response-guitar-graph](https://github.com/circinusX1/sexa-ccw/assets/69641625/6f998b94-56da-473a-8156-6cec2b3ec632)
-
 
 
 ---
@@ -84,7 +81,8 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 #### SNR
 
 
-   * Signal to Noise ratio measurements (Left Side: noise [Pickup, cables, Probe] in dB, Right All strings hit signal dB) SNR > 45dB
+   * Signal to Noise ratio measurements (Left Side: noise [Pickup, cables, Probe] in dB, Right All strings hit signal dB) SNR > 42dB
+     
    * Test on EXI-CCW V1 V2 and V3
 
 ![snr_measurements](https://github.com/user-attachments/assets/9e77f4ac-187c-401d-b68d-649ec1bbebdc)
@@ -131,10 +129,6 @@ overview
 ![hum_pickup_schem](https://github.com/user-attachments/assets/ab6aecd4-c662-405d-a481-3dcc77360dc5)
 
 
-
-
-
-
 ## One or Double coil standard guitar pickups comments
 
 Standard guitar pickup core is mostly plastic (75%). The active iron adds up up 30% in few cases,
@@ -144,7 +138,6 @@ this can be improved as I said above. Here are the drawbacks of such a bad old t
 
 
 ![filling-factor](https://github.com/user-attachments/assets/97ca918b-d1ad-4c51-9ae8-c7bfb1c99bd2)
-
 
 
 ### Single or dual coil pickups problems
