@@ -13,13 +13,22 @@ The wire runs from one coil to another continuously (see the picture). This redu
  * Calculated impedance: 400-500 mH / coil
  * Measured resitence:   40..60Ohm / coil   => Calculated impedance at 400Hz => approx 1000 ohm 
 
+
+----
+
  *  [WEB SITE](https://exicoil.from-ca.com/)
  *  [EBAY](https://www.ebay.ca/itm/226516361547)
  *  [EBAY](https://www.ebay.ca/itm/226516360748?skw=exi+ccw&itmmeta=01JP7V67WNRD67CKE3ZSX6ZSVM&hash=item34bd6d5e2c:g:rCkAAOSwTupnJ75u&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fMIO9Wn%2BkwFMD58EfE2pmgtffH3WDbRRymd2sEAhdoLIHOn6zp0wDUZhgrnpQ6gkYqOqEIaoI%2FKdQLPxCWEu%2Bi6%2BYSAv2gJgoSg6bTJCKXGouv%2FALNDjaLEZAbGdee6gN4G0IyaZzUWVNUE5dvR1e6e22WwkQYI5aHFAMUZoxUTKK8EMU10booOc62GWq6NUoOj5vKFTrO4EH%2FdR03uRL6IA7gak8iPSJXNgeXh7rl%2FZK96scWnw3rYdtBu7MZi1DFa1q%2F1Gb5SLdszev5U1jw%7Ctkp%3ABk9SR4r_mPuxZQ)
 
 
-![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)See Guitar maxim frequencies chart here: 
+----
+See Guitar maxim frequencies chart here: 
 
+![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)
+
+
+
+----
 
 ### LESS HUM, BETTER PICK ATTACK, STRING SEPARATION, LESS HARMONICS, MUDDY SOUND GONE 
 
@@ -39,7 +48,8 @@ To find more search on youtube '6 coils guitar pickup or EXI-CCW'
 
 ### 3D casing models
 
-[STL 3d MODEL]([https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl](https://github.com/circinusX1/exi-ccw/blob/main/3d/EXI-6-FINAL.stl))
+[STL 3d MODEL]([https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl](https://github.com/circinusX1/exi-ccw/blob/main/3d/EXI-6-FINAL.stl)
+
 
 
 ### Performance
