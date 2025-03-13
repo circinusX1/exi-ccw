@@ -150,23 +150,11 @@ A regular pickup coil is extremely inefficient. The shape of the coil is elongat
 This huge number of turns adds up parasite capacitance. This makes the standard pickup sound dull and muddy. Exi coil uses 6 separate coils with 99% full iron core. Exi pickup achieves same inductance with 10 times fewer turns. Coils turns tunning and proper phasing and assembly makes the magnetic field uniform across the pickup. Exi-pickup has 10 times less turns, reduced capacitance, the sound is much clean and the muddy effect is almost gone. 
 
 
-### Order and buy
-   * https://exicoil.from-ca.com/
-   * https://www.ebay.ca/itm/226431325173
-   * https://www.ebay.ca/itm/226431719766
-   * https://www.ebay.ca/itm/226431844051
-   * https://www.kijiji.ca/v-view-details.html?adId=1705665369
-
 ### Issues, Help 
    * https://github.com/circinusX1/exi-ccw/issues
 
 
-### P.S.
-_This is not just a random project. I have a degree in Electrical science and a post univerisy degree in apllied electronics from 
-the Univeristy of Cluj Napoca. I built my first AM radio when I was 8 years old, my first aplifier at 11, then radio jammers, metal detectors,
-human presence detectors, sound controleed relays, TX-RX remote models and so on.
-My first passive guitar pickup installed on a wooden guitar at 16. 
-Before univeristy I get to this [In the 1980 - HighSchool](https://youtu.be/VV8N7t0PHKg?t=302) doing all kinds of audio projects_ 
+
 
 
 
