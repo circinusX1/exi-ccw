@@ -48,7 +48,9 @@ To find more search on youtube '6 coils guitar pickup or EXI-CCW'
 
 ### 3D casing models
 
-[STL 3d MODEL](https://github.com/circinusX1/sexa-ccw/blob/main/3d/exi-emboss.stl](https://github.com/circinusX1/exi-ccw/blob/main/3d/EXI-6-FINAL.stl)
+  [STL 3D MODEL V1](https://github.com/circinusX1/exi-ccw/blob/main/3d/EXI-6-FINAL.stl)
+  
+
 
 * More models in 3d folders
   
