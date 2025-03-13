@@ -15,13 +15,6 @@ The wire runs from one coil to another continuously (see the picture). This redu
 
 
 ----
-
- *  [WEB SITE](https://exicoil.from-ca.com/)
- *  [EBAY](https://www.ebay.ca/itm/226516361547)
- *  [EBAY](https://www.ebay.ca/itm/226516360748?skw=exi+ccw&itmmeta=01JP7V67WNRD67CKE3ZSX6ZSVM&hash=item34bd6d5e2c:g:rCkAAOSwTupnJ75u&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fMIO9Wn%2BkwFMD58EfE2pmgtffH3WDbRRymd2sEAhdoLIHOn6zp0wDUZhgrnpQ6gkYqOqEIaoI%2FKdQLPxCWEu%2Bi6%2BYSAv2gJgoSg6bTJCKXGouv%2FALNDjaLEZAbGdee6gN4G0IyaZzUWVNUE5dvR1e6e22WwkQYI5aHFAMUZoxUTKK8EMU10booOc62GWq6NUoOj5vKFTrO4EH%2FdR03uRL6IA7gak8iPSJXNgeXh7rl%2FZK96scWnw3rYdtBu7MZi1DFa1q%2F1Gb5SLdszev5U1jw%7Ctkp%3ABk9SR4r_mPuxZQ)
-
-
-----
 See Guitar maxim frequencies chart here: 
 
 ![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)
@@ -143,14 +136,11 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 [DEMO BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
-[ORDER & BUY HERE Version 3](https://ghitara.com/?p=_sexa_ccw.php)
 
 ---
 
-By: Marius C.
-overview
+### Wiring
 
-### Wiring, as any humbucker active pickup:
 ![hum_pickup_schem](https://github.com/user-attachments/assets/ab6aecd4-c662-405d-a481-3dcc77360dc5)
 
 
@@ -174,11 +164,19 @@ A regular pickup coil is extremely inefficient. The shape of the coil is elongat
 
 This huge number of turns adds up parasite capacitance. This makes the standard pickup sound dull and muddy. Exi coil uses 6 separate coils with 99% full iron core. Exi pickup achieves same inductance with 10 times fewer turns. Coils turns tunning and proper phasing and assembly makes the magnetic field uniform across the pickup. Exi-pickup has 10 times less turns, reduced capacitance, the sound is much clean and the muddy effect is almost gone. 
 
+----
 
 ### Issues, Help 
    * https://github.com/circinusX1/exi-ccw/issues
 
+----
 
+# Purchase options
+
+ *  [ORDER & HERE Ver 4]([https://exi](https://ghitara.com/))
+ *  [EXI CCW WEB SITE](https://exicoil.from-ca.com/)
+ *  [EBAY LISTING 1](https://www.ebay.ca/itm/226516361547)
+ *  [EBAY LISTING 2](https://www.ebay.ca/itm/226516360748?skw=exi+ccw&itmmeta=01JP7V67WNRD67CKE3ZSX6ZSVM&hash=item34bd6d5e2c:g:rCkAAOSwTupnJ75u&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fMIO9Wn%2BkwFMD58EfE2pmgtffH3WDbRRymd2sEAhdoLIHOn6zp0wDUZhgrnpQ6gkYqOqEIaoI%2FKdQLPxCWEu%2Bi6%2BYSAv2gJgoSg6bTJCKXGouv%2FALNDjaLEZAbGdee6gN4G0IyaZzUWVNUE5dvR1e6e22WwkQYI5aHFAMUZoxUTKK8EMU10booOc62GWq6NUoOj5vKFTrO4EH%2FdR03uRL6IA7gak8iPSJXNgeXh7rl%2FZK96scWnw3rYdtBu7MZi1DFa1q%2F1Gb5SLdszev5U1jw%7Ctkp%3ABk9SR4r_mPuxZQ)
 
 
 
