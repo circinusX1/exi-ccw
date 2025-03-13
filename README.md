@@ -128,13 +128,10 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 
 ----
+### Youtube videos
 
+[YOUTUBE 1](https://www.youtube.com/watch?v=kiHT9ebmXm8)
 
-[DEMO Version 2/3 with TL071 ](https://www.youtube.com/watch?v=29cAE45jkJk)
-
-[DEMOVersion 1 with Transistor](https://www.youtube.com/watch?v=PKX4ls18GiM)
-
-[DEMO BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
 
 ----
