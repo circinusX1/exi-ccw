@@ -2,12 +2,16 @@ a# 6 Coils Guitar Pickup
 ## EXI-CCW, Six Continuous Coils Winding guitar pickup
 ##                  === EXI-CCW CLEAR SOUND === 
 
-EXI -  SIX in Greek.Then all kinds of electronics for fun
+EXI -  SIX 
 CCW -  Continuous Coils Winding, 
 
-The coil winding wiring from one to another has no soldering (Wow!). The wire runs from one coil 
-to another continuously as can be seen in the picture. This is to reduce noise and to ensure high-quality sound.
-As the 'guitar pickup' is stuck in a century old tehnology, I am proposing a new approach to guitar pickups.
+The wire runs from one coil to another continuously (see the picture). This reduces noise and to ensure high-quality sound.
+ * One coil per string: better sound sepparation
+ * Less turns:          smaller parasite capacity, muddy sound gone
+ * Frequency response:  execlent.
+ * SNR:                 >40dB
+
+ *  
 
 
 ![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)See Guitar maxim frequencies chart here: 
