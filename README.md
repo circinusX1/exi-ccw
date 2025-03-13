@@ -58,17 +58,16 @@ we can consider it will go up to 4..6Khz. All studios would cut off a guitar bef
 
  ![freq_ranges7](https://github.com/user-attachments/assets/84ee54c9-d4f3-42eb-9eab-dfd46383acb1)
 
+     * Original document: http://guitarbuilding.org/wp-content/uploads/2014/06/Instrument-Sound-EQ-Chart.pdf
+
 
 ### Testing pickups
 
   [pickup testing](https://www.youtube.com/watch?v=5E-IHvX7vRU)
 
 
-     * Original document: http://guitarbuilding.org/wp-content/uploads/2014/06/Instrument-Sound-EQ-Chart.pdf
-
-
-#### Frequency response
-       
+### Frequency response
+ 
 
     Here Ive tested couple of pickups I had handy in the range of 100 to 15 Khz. 
     The probe is a coil with almost 0 inductance was made as: 140..160 turns of 
@@ -76,8 +75,6 @@ we can consider it will go up to 4..6Khz. All studios would cut off a guitar bef
     The yellow line represent the the EXI-CCW response.
 
 See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
-
-  
 
 
 ![frequency-response-guitar-graph](https://github.com/circinusX1/sexa-ccw/assets/69641625/6f998b94-56da-473a-8156-6cec2b3ec632)
@@ -89,7 +86,7 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 ![image](https://github.com/user-attachments/assets/b8a5d370-a5ae-42d9-b2ab-b33b3e6394ff)
 
-
+----
 
 #### SNR
 
@@ -100,7 +97,8 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 ![snr_measurements](https://github.com/user-attachments/assets/9e77f4ac-187c-401d-b68d-649ec1bbebdc)
 
-     
+
+---- 
 
 
 ### Active pickup, V1 (obsolette)
@@ -109,7 +107,8 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 ![pick-pcb-6c](https://github.com/circinusX1/sexa-ccw/assets/69641625/6b53ffa5-7a11-4bb3-852e-07e3fcdf1ea7)
 
----
+
+----
 
 ### Active pickup, V4
 
@@ -119,7 +118,8 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
   * The EasyEda PCB is in latest folder
 
----
+
+----
 
 
 #### V3 sexa-ccw
@@ -127,7 +127,7 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 ![pick_v3](https://github.com/circinusX1/sexa-ccw/assets/69641625/90c53b04-8858-478b-84e9-50dcb3daaf10)
 
 
----
+----
 
 
 [DEMO Version 2/3 with TL071 ](https://www.youtube.com/watch?v=29cAE45jkJk)
@@ -137,7 +137,7 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 [DEMO BETA Version with Transistor](https://www.youtube.com/watch?v=EW_jxvgFBk8)
 
 
----
+----
 
 ### Wiring
 
@@ -154,6 +154,7 @@ this can be improved as I said above. Here are the drawbacks of such a bad old t
 
 ![filling-factor](https://github.com/user-attachments/assets/97ca918b-d1ad-4c51-9ae8-c7bfb1c99bd2)
 
+----
 
 ### Single or dual coil pickups problems
 
@@ -179,6 +180,7 @@ This huge number of turns adds up parasite capacitance. This makes the standard 
  *  [EBAY LISTING 2](https://www.ebay.ca/itm/226516360748?skw=exi+ccw&itmmeta=01JP7V67WNRD67CKE3ZSX6ZSVM&hash=item34bd6d5e2c:g:rCkAAOSwTupnJ75u&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fMIO9Wn%2BkwFMD58EfE2pmgtffH3WDbRRymd2sEAhdoLIHOn6zp0wDUZhgrnpQ6gkYqOqEIaoI%2FKdQLPxCWEu%2Bi6%2BYSAv2gJgoSg6bTJCKXGouv%2FALNDjaLEZAbGdee6gN4G0IyaZzUWVNUE5dvR1e6e22WwkQYI5aHFAMUZoxUTKK8EMU10booOc62GWq6NUoOj5vKFTrO4EH%2FdR03uRL6IA7gak8iPSJXNgeXh7rl%2FZK96scWnw3rYdtBu7MZi1DFa1q%2F1Gb5SLdszev5U1jw%7Ctkp%3ABk9SR4r_mPuxZQ)
 
 
+----
 
 
 
