@@ -1,5 +1,6 @@
 a# 6 Coils Guitar Pickup
 ## EXI-CCW, Six Continuous Coils Winding guitar pickup
+##                  === EXI-CCW CLEAR SOUND === 
 
 EXI -  SIX in Greek.Then all kinds of electronics for fun
 CCW -  Continuous Coils Winding, 
