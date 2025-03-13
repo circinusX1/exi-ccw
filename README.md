@@ -51,6 +51,8 @@ we can consider it will go up to 4..6Khz. All studios would cut off a guitar bef
  ![freq_ranges7](https://github.com/user-attachments/assets/84ee54c9-d4f3-42eb-9eab-dfd46383acb1)
 
 
+### Testing pickups
+
   [pickup testing](https://www.youtube.com/watch?v=5E-IHvX7vRU)
 
 
