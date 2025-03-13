@@ -10,6 +10,8 @@ The wire runs from one coil to another continuously (see the picture). This redu
  * Less turns:          smaller parasite capacity, muddy sound gone
  * Frequency response:  execlent.
  * SNR:                 >40dB
+ * Calculated impedance: 400-500 mH / coil
+ * Measured resitence:   40..60Ohm / coil   => Calculated impedance at 400Hz => approx 1000 ohm 
 
  *  [WEB SITE](https://exicoil.from-ca.com/)
  *  [EBAY](https://www.ebay.ca/itm/226516361547)
