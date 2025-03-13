@@ -95,16 +95,21 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
      
 
 
-### Active pickup, V1
+### Active pickup, V1 (obsolette)
 
 ![sche_6coils](https://github.com/circinusX1/sexa-ccw/assets/69641625/2b5d4f61-82ba-425c-bbf4-3223ea398ee7)
-
----
 
 ![pick-pcb-6c](https://github.com/circinusX1/sexa-ccw/assets/69641625/6b53ffa5-7a11-4bb3-852e-07e3fcdf1ea7)
 
 ---
 
+### Active pickup, V4
+
+![sche_6 coils v4 ](https://github.com/circinusX1/exi-ccw/blob/main/latest/EXI-CCW-V4-SCHE.png)
+
+![pick-pcb-6coils v4](https://github.com/circinusX1/exi-ccw/blob/main/latest/EXI-CCW-PCB-V4.png)
+
+  * The EasyEda PCB is in latest folder
 
 ---
 
