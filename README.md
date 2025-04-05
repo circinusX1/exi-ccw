@@ -1,5 +1,5 @@
 a# 6 Coils Guitar Pickup
-## EXI-CCW, Six Continuous Coils Winding guitar pickup
+## EXI-CCW, Six Continuous Coils Winding guitar pickup with OPA1641
 
 
 EXI -  SIX 
