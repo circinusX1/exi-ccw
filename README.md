@@ -130,7 +130,6 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 [YOUTUBE 1](https://www.youtube.com/watch?v=kiHT9ebmXm8)
 
-[YOUTUBE 2](https://www.youtube.com/watch?v=2gxYBons_T4)
 
 [YOUTUBE 3](https://www.youtube.com/watch?v=KD3PIVsBRIo)
 
