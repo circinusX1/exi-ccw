@@ -168,6 +168,7 @@ This huge number of turns adds up parasite capacitance. This makes the standard 
 
 ### Issues, Help 
    * https://github.com/circinusX1/exi-ccw/issues
+   * [linkedin](https://www.linkedin.com/in/octavianmchincisan/)
 
 ----
 
