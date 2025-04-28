@@ -101,7 +101,7 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 
 ### Active pickup, V4
 
-![sche_6 coils v4 ](https://github.com/circinusX1/exi-ccw/blob/main/latest/EXI-CCW-V4-SCHE.png)
+![image](https://github.com/user-attachments/assets/293ca895-f3e4-4690-a94a-38bf22cc096c)
 
 ![pick-pcb-6coils v4](https://github.com/circinusX1/exi-ccw/blob/main/latest/EXI-CCW-PCB-V4.png)
 
