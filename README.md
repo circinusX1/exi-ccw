@@ -96,15 +96,6 @@ See it here: https://www.youtube.com/watch?v=KD3PIVsBRIo
 ![snr_measurements](https://github.com/user-attachments/assets/9e77f4ac-187c-401d-b68d-649ec1bbebdc)
 
 
----- 
-
-
-### Active pickup, V1 (obsolette)
-
-![sche_6coils](https://github.com/circinusX1/sexa-ccw/assets/69641625/2b5d4f61-82ba-425c-bbf4-3223ea398ee7)
-
-![pick-pcb-6c](https://github.com/circinusX1/sexa-ccw/assets/69641625/6b53ffa5-7a11-4bb3-852e-07e3fcdf1ea7)
-
 
 ----
 
