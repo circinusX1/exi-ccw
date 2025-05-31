@@ -1,6 +1,14 @@
 a# 6 Coils Guitar Pickup
 ## EXI-CCW, Six Continuous Coils Winding guitar pickup with OPA1641
 
+# Purchase options
+
+ *  [ORDER & HERE Ver 4]([https://exi](https://ghitara.com/))
+     *  Also you can buy a KIT    
+ *  [EXI CCW WEB SITE](https://exicoil.from-ca.com/)
+ *  search on eBay 'exi-ccw'
+
+   
 
 EXI -  SIX 
 CCW -  Continuous Coils Winding, 
@@ -166,9 +174,10 @@ This huge number of turns adds up parasite capacitance. This makes the standard 
 # Purchase options
 
  *  [ORDER & HERE Ver 4]([https://exi](https://ghitara.com/))
+     *  Also you can buy a KIT    
  *  [EXI CCW WEB SITE](https://exicoil.from-ca.com/)
- *  [EBAY LISTING 1](https://www.ebay.ca/itm/226516361547)
- *  [EBAY LISTING 2](https://www.ebay.ca/itm/226516360748?skw=exi+ccw&itmmeta=01JP7V67WNRD67CKE3ZSX6ZSVM&hash=item34bd6d5e2c:g:rCkAAOSwTupnJ75u&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fMIO9Wn%2BkwFMD58EfE2pmgtffH3WDbRRymd2sEAhdoLIHOn6zp0wDUZhgrnpQ6gkYqOqEIaoI%2FKdQLPxCWEu%2Bi6%2BYSAv2gJgoSg6bTJCKXGouv%2FALNDjaLEZAbGdee6gN4G0IyaZzUWVNUE5dvR1e6e22WwkQYI5aHFAMUZoxUTKK8EMU10booOc62GWq6NUoOj5vKFTrO4EH%2FdR03uRL6IA7gak8iPSJXNgeXh7rl%2FZK96scWnw3rYdtBu7MZi1DFa1q%2F1Gb5SLdszev5U1jw%7Ctkp%3ABk9SR4r_mPuxZQ)
+ *  search on eBay exi ccw
+
 
 
 ----
