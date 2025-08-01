@@ -1,0 +1,215 @@
+{
+  "uuid": "a9888db8b9c87ef77c2ac29824f1be90",
+  "path": "Offline/6-coils-red-v1",
+  "name": "6-coils-red-v1",
+  "content": "",
+  "created_at": "2024-01-02 20:00:53",
+  "updated_at": "2025-07-23 10:24:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2b0a2b0b0d9385fa45ed3840070f69ae",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "9f12ee5ddd03881fbc3d5d7e8239e658",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "bb009484ef804a24ac5d18c54b249586": 7,
+        "07d9b10260a54feb89de280fb06c2313": 1,
+        "13fbe66358ac415f8f844f8a7a60755f": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "66d2ce4416a3416eaad37f0a2c449fe4": 1,
+        "c85b74fada6a4080898273330abc661c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22u",
+          1,
+          "SMD",
+          "C1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "SMD",
+          "C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          2,
+          "C0603",
+          "C3,C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "SMD",
+          "C5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "33k",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Logic_Probe",
+          1,
+          "",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "LM741CN-DIP-8",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "9",
+          1,
+          "HDR1X2",
+          "V1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Sin(1k 100m 0)",
+          1,
+          "",
+          "XFG1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1753280694,
+      "createTime": 1704243654,
+      "histories": [],
+      "created_at": "2024-01-02 20:00:54",
+      "updated_at": "2025-07-23 10:24:54"
+    },
+    {
+      "uuid": "6c944392647dd73b7d68a516e8105455",
+      "puuid": "a9888db8b9c87ef77c2ac29824f1be90",
+      "title": "PCB_LM471_3",
+      "filename": "PCB_LM471_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bdbabf89aadf439cb964defe03ef0610": 3,
+        "f8151fdc728a41ebbc304e11d39e5437": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [],
+      "updateTime": 1708031237,
+      "createTime": 1704297321,
+      "histories": [],
+      "created_at": "2024-01-03 10:55:21",
+      "updated_at": "2024-02-15 16:07:17"
+    }
+  ],
+  "sort": [],
+  "title": "6-coils-red-v1",
+  "foldername": "6-coils-red-v1",
+  "schfilename": "6-coils-red-v1.json",
+  "schfilemtime": 1753280694195
+}

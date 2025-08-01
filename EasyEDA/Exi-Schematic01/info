@@ -1,0 +1,275 @@
+{
+  "uuid": "8a64e831fe25bb1a0268e8cdfa415076",
+  "path": "Offline/Exi-Schematic01",
+  "name": "Exi-Schematic01",
+  "content": "",
+  "created_at": "2025-08-01 17:52:38",
+  "updated_at": "2025-08-01 17:52:38",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c13a68639480ece2b929c839813714d2",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 9,
+        "e545f26e87c74952857381bd0bff848e": 5,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1,
+        "3398ba973e884e058569040caec61957": 1,
+        "4be50b92e47b4f88a54e127c17ce78cb": 1,
+        "404aa9221ff94de597b8734806e7c74f": 6,
+        "eaa426c16eb0422e802d2b5db1bace5c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CAP-6.3*12",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220p",
+          1,
+          "RAD-0.2",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CAP-6.3*12",
+          "C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CAP-6.3*8",
+          "C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CAP-6.3*11",
+          "C8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "CAP-7.2*2.5",
+          "D2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "GND",
+          2,
+          "HDR-M-2.54_1X1",
+          "GND-,INGND",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "CAP-4*5.5",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "16k",
+          2,
+          "PS-RES-7.5*3.6",
+          "R1,R2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "PS-RES-7.5*3.6",
+          "R3,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "33k",
+          1,
+          "PS-RES-7.5*3.6",
+          "R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "PS-RES-7.5*3.6",
+          "R5,R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "PS-RES-7.5*3.6",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "PS-RES-7.5*3.6",
+          "R10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TL071CDE4",
+          1,
+          "LM741-NUTTAPONG",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ]
+      ],
+      "updateTime": 1754085158,
+      "createTime": 1754085158,
+      "histories": [],
+      "created_at": "2025-08-01 17:52:38",
+      "updated_at": "2025-08-01 17:52:38"
+    }
+  ],
+  "sort": [],
+  "title": "Exi-Schematic01",
+  "foldername": "Exi-Schematic01",
+  "schfilename": "Exi-Schematic01.json",
+  "schfilemtime": 1754085158979
+}

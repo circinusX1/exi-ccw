@@ -1,0 +1,488 @@
+{
+  "uuid": "c41cb6cf847678d63760b8f617927ec6",
+  "path": "Offline/pickup3",
+  "name": "pickup3",
+  "content": "",
+  "created_at": "2023-07-27 12:28:52",
+  "updated_at": "2023-07-28 17:20:32",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "afa07ab5e976dc0fe633f91fcb8e5600",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c7769faac45b4fad86b520ccac35a04d": 1,
+        "bb009484ef804a24ac5d18c54b249586": 8,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 1,
+        "12960228eb8c4ddeaecb1ef105b9e058": 1,
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "404aa9221ff94de597b8734806e7c74f": 3,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1,
+        "0b65abe55b37496eaa9a84fd9c05919c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "10K,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "500n",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "1u",
+          3,
+          "CASE-A_3216",
+          "C2,C3,C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          3,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "ZPT054B",
+          1,
+          "LED-TH_BD5.9-RD_DY-PT334-6B",
+          "LED1",
+          {
+            "BOM_Manufacturer Part": "ZPT054B",
+            "puuid": "60cfe00cb38844a7b355fc2d7671805e",
+            "uuid": "12960228eb8c4ddeaecb1ef105b9e058",
+            "BOM_Supplier Part": "C575323",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Chau Light"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED-TH_BD5.0_RED",
+          "LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5k",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R0603",
+          "R3,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "470",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5K",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "R_3296W_EU",
+          1,
+          "RES-ADJ-TH_3296W",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Value(Ω)": "10k",
+            "puuid": "5e404972447a403ca43a83aeb15e254e",
+            "uuid": "0b65abe55b37496eaa9a84fd9c05919c"
+          }
+        ],
+        [
+          "LM741M/TR",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "LM741M/TR",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "c7769faac45b4fad86b520ccac35a04d",
+            "BOM_Supplier Part": "C356704",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HGSEMI(华冠)"
+          }
+        ]
+      ],
+      "updateTime": 1690577970,
+      "createTime": 1690475332,
+      "histories": [],
+      "created_at": "2023-07-27 12:28:52",
+      "updated_at": "2023-07-28 16:59:30"
+    },
+    {
+      "uuid": "38bfcfd4d10a707cc2050b8fd49b3198",
+      "puuid": "c41cb6cf847678d63760b8f617927ec6",
+      "title": "PCB_pickup3_2",
+      "filename": "PCB_pickup3_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "60cfe00cb38844a7b355fc2d7671805e": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 1,
+        "5e404972447a403ca43a83aeb15e254e": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [],
+      "updateTime": 1690573514,
+      "createTime": 1690564768,
+      "histories": [],
+      "created_at": "2023-07-28 13:19:28",
+      "updated_at": "2023-07-28 15:45:14"
+    },
+    {
+      "uuid": "e716abf65df825717950e8a698b5b04e",
+      "puuid": "c41cb6cf847678d63760b8f617927ec6",
+      "title": "PCB_pickup3_2-1",
+      "filename": "PCB_pickup3_2-1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 48,
+        "f8151fdc728a41ebbc304e11d39e5437": 6,
+        "ce25118ef0b041b8a773e71ca28ae65d": 18,
+        "19c77e72422b43b59c26b9fa67af5de4": 18,
+        "60cfe00cb38844a7b355fc2d7671805e": 6,
+        "ce0ed154d45b41508e0debca8473ba07": 6,
+        "5e404972447a403ca43a83aeb15e254e": 6,
+        "1fe0adc377c7472ba321d68db1c050fa": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "10K,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "500n",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "1u",
+          3,
+          "CASE-A_3216",
+          "C2,C3,C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          3,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "ZPT054B",
+          1,
+          "LED-TH_BD5.9-RD_DY-PT334-6B",
+          "LED1",
+          {
+            "BOM_Manufacturer Part": "ZPT054B",
+            "puuid": "60cfe00cb38844a7b355fc2d7671805e",
+            "uuid": "12960228eb8c4ddeaecb1ef105b9e058",
+            "BOM_Supplier Part": "C575323",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Chau Light"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED-TH_BD5.0_RED",
+          "LED2",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5k",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R0603",
+          "R3,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "470",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5K",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "R_3296W_EU",
+          1,
+          "RES-ADJ-TH_3296W",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Value(Ω)": "10k",
+            "puuid": "5e404972447a403ca43a83aeb15e254e",
+            "uuid": "0b65abe55b37496eaa9a84fd9c05919c"
+          }
+        ],
+        [
+          "LM741M/TR",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "LM741M/TR",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "c7769faac45b4fad86b520ccac35a04d",
+            "BOM_Supplier Part": "C356704",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HGSEMI(华冠)"
+          }
+        ]
+      ],
+      "updateTime": 1690573517,
+      "createTime": 1690564947,
+      "histories": [],
+      "created_at": "2023-07-28 13:22:27",
+      "updated_at": "2023-07-28 15:45:17"
+    },
+    {
+      "uuid": "d2d1e7321d478f32293194565bbb3a0c",
+      "puuid": "c41cb6cf847678d63760b8f617927ec6",
+      "title": "latest",
+      "filename": "latest.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "60cfe00cb38844a7b355fc2d7671805e": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 1,
+        "5e404972447a403ca43a83aeb15e254e": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1690574274,
+      "createTime": 1690574274,
+      "histories": [],
+      "created_at": "2023-07-28 15:57:54",
+      "updated_at": "2023-07-28 15:57:54"
+    }
+  ],
+  "sort": [],
+  "title": "pickup3",
+  "foldername": "pickup3",
+  "schfilename": "pickup3.json",
+  "schfilemtime": 1690577970665
+}

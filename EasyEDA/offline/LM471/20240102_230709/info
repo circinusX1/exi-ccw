@@ -1,0 +1,263 @@
+{
+  "uuid": "a9888db8b9c87ef77c2ac29824f1be90",
+  "path": "Offline/LM471",
+  "name": "LM471",
+  "content": "",
+  "created_at": "2024-01-02 20:00:53",
+  "updated_at": "2024-01-02 23:07:09",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2b0a2b0b0d9385fa45ed3840070f69ae",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "bb009484ef804a24ac5d18c54b249586": 8,
+        "24eeb2ceca08480b92b847b6a310acda": 3,
+        "404aa9221ff94de597b8734806e7c74f": 5,
+        "c7769faac45b4fad86b520ccac35a04d": 1,
+        "18c36d88f1774b7ba396248e502cf897": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22u",
+          1,
+          "CPOL-RADIAL-10UF-25V",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "26b6b6860cfa414aaeaf35ab294f6839",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CPOL-RADIAL-10UF-25V",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "26b6b6860cfa414aaeaf35ab294f6839",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "680p",
+          2,
+          "C0603",
+          "C3,C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100p",
+          1,
+          "C0603",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CPOL-RADIAL-10UF-25V",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "26b6b6860cfa414aaeaf35ab294f6839",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          5,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "500k",
+          1,
+          "RES-ADJ-TH_RM063-103",
+          "R4",
+          {
+            "BOM_Manufacturer Part": "RM063-103 10K",
+            "puuid": "fc1142a9a0fa47d98f5aaaf9be786de7",
+            "uuid": "18c36d88f1774b7ba396248e502cf897",
+            "BOM_Supplier Part": "C38793",
+            "BOM_Supplier": "LCSC"
+          }
+        ],
+        [
+          "12k",
+          2,
+          "R0603",
+          "R5,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0603",
+          "R8,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "LM741M/TR",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "LM741M/TR",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "c7769faac45b4fad86b520ccac35a04d",
+            "BOM_Supplier Part": "C356704",
+            "BOM_Supplier": "LCSC"
+          }
+        ]
+      ],
+      "updateTime": 1704252034,
+      "createTime": 1704243654,
+      "histories": [],
+      "created_at": "2024-01-02 20:00:54",
+      "updated_at": "2024-01-02 22:20:34"
+    },
+    {
+      "uuid": "5f1d37505c3daf871872643f8c44918e",
+      "puuid": "a9888db8b9c87ef77c2ac29824f1be90",
+      "title": "PCB_LM471",
+      "filename": "PCB_LM471.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 3,
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "398691f1f785460098bbe5ee6590333c": 7,
+        "5e404972447a403ca43a83aeb15e254e": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [],
+      "updateTime": 1704245294,
+      "createTime": 1704245294,
+      "histories": [],
+      "created_at": "2024-01-02 20:28:14",
+      "updated_at": "2024-01-02 20:28:14"
+    },
+    {
+      "uuid": "d075a5bc4013e4a67c4aa7b57f967956",
+      "puuid": "a9888db8b9c87ef77c2ac29824f1be90",
+      "title": "PCB_LM471_2",
+      "filename": "PCB_LM471_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "26b6b6860cfa414aaeaf35ab294f6839": 3,
+        "f8151fdc728a41ebbc304e11d39e5437": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 5,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [],
+      "updateTime": 1704254829,
+      "createTime": 1704252197,
+      "histories": [],
+      "created_at": "2024-01-02 22:23:17",
+      "updated_at": "2024-01-02 23:07:09"
+    }
+  ],
+  "sort": [],
+  "title": "LM471",
+  "foldername": "LM471",
+  "schfilename": "LM471.json",
+  "schfilemtime": 1704252034836
+}

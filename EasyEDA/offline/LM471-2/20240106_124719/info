@@ -1,0 +1,243 @@
+{
+  "uuid": "7a25a4d090983065d63184d163ede2ef",
+  "path": "Offline/LM471-2",
+  "name": "LM471-2",
+  "content": "",
+  "created_at": "2024-01-06 11:39:58",
+  "updated_at": "2024-01-06 12:47:19",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "be658689d8f31a981b7476158da3b368",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "14a9635cb73b1c8609cc99a020cd1583",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "bb009484ef804a24ac5d18c54b249586": 8,
+        "07d9b10260a54feb89de280fb06c2313": 1,
+        "13fbe66358ac415f8f844f8a7a60755f": 1,
+        "dacce69b1c194bea92742be765e82cfc": 1,
+        "4be50b92e47b4f88a54e127c17ce78cb": 1,
+        "a5cb8fc803084158bb825edf2c7447ef": 1,
+        "9746a1dd250c492da43ea9f347d91e20": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22u",
+          1,
+          "SMD",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "bdbabf89aadf439cb964defe03ef0610",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "SMD",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "bdbabf89aadf439cb964defe03ef0610",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "180p",
+          1,
+          "RAD-0.1",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "d8f3b09873bf4bf89243089a133a0e9f",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "SMD",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "bdbabf89aadf439cb964defe03ef0610",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "15mH",
+          1,
+          "AXIAL-0.4",
+          "L1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "58660ac887734961820739bcb905346a",
+            "uuid": "9746a1dd250c492da43ea9f347d91e20"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "AXIAL-0.3",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "12k",
+          2,
+          "R0603",
+          "R5,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "560k",
+          1,
+          "R0603",
+          "R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "ideal_opamp",
+          1,
+          "LM741CN-DIP-8",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2e77f65436974d3ab6358c8d7604a2ec",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ],
+        [
+          "9",
+          1,
+          "HDR1X2",
+          "V1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ],
+        [
+          "SIN(0 0.010 50 10m 0 0)",
+          1,
+          "HDR1X2",
+          "V2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "dacce69b1c194bea92742be765e82cfc"
+          }
+        ]
+      ],
+      "updateTime": 1704563239,
+      "createTime": 1704559198,
+      "histories": [],
+      "created_at": "2024-01-06 11:39:58",
+      "updated_at": "2024-01-06 12:47:19"
+    }
+  ],
+  "sort": [],
+  "title": "LM471-2",
+  "foldername": "LM471-2",
+  "schfilename": "LM471-2.json",
+  "schfilemtime": 1704563239581
+}

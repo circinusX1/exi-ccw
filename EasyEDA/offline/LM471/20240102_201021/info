@@ -1,0 +1,216 @@
+{
+  "uuid": "a9888db8b9c87ef77c2ac29824f1be90",
+  "path": "Offline/LM471",
+  "name": "LM471",
+  "content": "",
+  "created_at": "2024-01-02 20:00:53",
+  "updated_at": "2024-01-02 20:10:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2b0a2b0b0d9385fa45ed3840070f69ae",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "1c8235970700baccc5bc84361b5ef9b9",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c387f48b0a36d027785f0c0718dc602e": 1,
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "bb009484ef804a24ac5d18c54b249586": 7,
+        "0b65abe55b37496eaa9a84fd9c05919c": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "404aa9221ff94de597b8734806e7c74f": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "22u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "C0603",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "100p",
+          1,
+          "C0603",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "1u",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          5,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "18k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "560k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "8k",
+          2,
+          "R0603",
+          "R5,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "RES-ADJ-TH_3296W",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Value(Ω)": "10k",
+            "puuid": "5e404972447a403ca43a83aeb15e254e",
+            "uuid": "0b65abe55b37496eaa9a84fd9c05919c"
+          }
+        ],
+        [
+          "LM741CN",
+          1,
+          "DIP-8_L9.8-W6.6-P2.54-LS7.6-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "LM741CN/NOPB",
+            "puuid": "d02bd24390b14704889edf7a144138dd",
+            "uuid": "c387f48b0a36d027785f0c0718dc602e",
+            "BOM_Supplier Part": "C13974",
+            "BOM_Supplier": "LCSC"
+          }
+        ]
+      ],
+      "updateTime": 1704244221,
+      "createTime": 1704243654,
+      "histories": [],
+      "created_at": "2024-01-02 20:00:54",
+      "updated_at": "2024-01-02 20:10:21"
+    }
+  ],
+  "sort": [],
+  "title": "LM471",
+  "foldername": "LM471",
+  "schfilename": "LM471.json",
+  "schfilemtime": 1704244221109
+}

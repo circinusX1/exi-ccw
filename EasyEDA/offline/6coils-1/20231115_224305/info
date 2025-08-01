@@ -1,0 +1,397 @@
+{
+  "uuid": "4f73cbe1dd1e32503a19deda3f6c19a7",
+  "path": "Offline/6coils-1",
+  "name": "6coils-1",
+  "content": "",
+  "created_at": "2023-10-23 14:16:17",
+  "updated_at": "2023-11-15 22:43:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e6319d29180ff7c28a1f5384c88fc9ab",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "e545f26e87c74952857381bd0bff848e": 4,
+        "404aa9221ff94de597b8734806e7c74f": 4,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "18c36d88f1774b7ba396248e502cf897": 1,
+        "bff008b30b154f08a1cffc400bafb513": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "33n",
+          1,
+          "C0603",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "47u",
+          3,
+          "CASE-A_3216",
+          "C3,C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          4,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "INDUCTOR_SMD:L_COILCRAFT_XXL4040",
+          6,
+          "IND-SMD_L4.0-W4.0",
+          "L1,L2,L3,L4,L5,L6",
+          {
+            "BOM_Manufacturer Part": "Inductor_SMD:L_Coilcraft_XxL4040",
+            "puuid": "a4d354a2f7b24c56ac4f3ee62e31a868",
+            "uuid": "bff008b30b154f08a1cffc400bafb513",
+            "BOM_Supplier Part": "C9900003196",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-ADJ-TH_RM063-103",
+          "R3",
+          {
+            "BOM_Manufacturer Part": "RM063-103 10K",
+            "puuid": "fc1142a9a0fa47d98f5aaaf9be786de7",
+            "uuid": "18c36d88f1774b7ba396248e502cf897",
+            "BOM_Supplier Part": "C38793",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JML"
+          }
+        ]
+      ],
+      "updateTime": 1698086918,
+      "createTime": 1698084977,
+      "histories": [],
+      "created_at": "2023-10-23 14:16:17",
+      "updated_at": "2023-10-23 14:48:38"
+    },
+    {
+      "uuid": "002313f2f4ed1f22eb1c3f4063e3a8e9",
+      "puuid": "4f73cbe1dd1e32503a19deda3f6c19a7",
+      "title": "PCB_6coils-1",
+      "filename": "PCB_6coils-1.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 4,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "a4d354a2f7b24c56ac4f3ee62e31a868": 6,
+        "4a81c52f384a4e1ba3f57a3703e0f5f9": 1,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1
+      },
+      "BOM": [],
+      "updateTime": 1698085860,
+      "createTime": 1698085860,
+      "histories": [],
+      "created_at": "2023-10-23 14:31:00",
+      "updated_at": "2023-10-23 14:31:00"
+    },
+    {
+      "uuid": "e6afb79f9296b71a8873ccfe5f7c3508",
+      "puuid": "4f73cbe1dd1e32503a19deda3f6c19a7",
+      "title": "PCB_6coils-1_2",
+      "filename": "PCB_6coils-1_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 4,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "a4d354a2f7b24c56ac4f3ee62e31a868": 6,
+        "4a81c52f384a4e1ba3f57a3703e0f5f9": 1,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1
+      },
+      "BOM": [],
+      "updateTime": 1698086610,
+      "createTime": 1698086220,
+      "histories": [],
+      "created_at": "2023-10-23 14:37:00",
+      "updated_at": "2023-10-23 14:43:30"
+    },
+    {
+      "uuid": "da89b411531444990bae8a4af9b7f556",
+      "puuid": "4f73cbe1dd1e32503a19deda3f6c19a7",
+      "title": "PCB_6coils-1_3",
+      "filename": "PCB_6coils-1_3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 4,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "a4d354a2f7b24c56ac4f3ee62e31a868": 6,
+        "4a81c52f384a4e1ba3f57a3703e0f5f9": 1,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1
+      },
+      "BOM": [],
+      "updateTime": 1698088956,
+      "createTime": 1698087778,
+      "histories": [],
+      "created_at": "2023-10-23 15:02:58",
+      "updated_at": "2023-10-23 15:22:36"
+    },
+    {
+      "uuid": "84933ea257a6dd6a978e69741b96321e",
+      "puuid": "4f73cbe1dd1e32503a19deda3f6c19a7",
+      "title": "PCB_6coils-1_3-okay",
+      "filename": "PCB_6coils-1_3-okay.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 4,
+        "f8151fdc728a41ebbc304e11d39e5437": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "a4d354a2f7b24c56ac4f3ee62e31a868": 6,
+        "4a81c52f384a4e1ba3f57a3703e0f5f9": 1,
+        "398691f1f785460098bbe5ee6590333c": 2,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "33n",
+          1,
+          "C0603",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "47u",
+          3,
+          "CASE-A_3216",
+          "C3,C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          4,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "INDUCTOR_SMD:L_COILCRAFT_XXL4040",
+          6,
+          "IND-SMD_L4.0-W4.0",
+          "L1,L2,L3,L4,L5,L6",
+          {
+            "BOM_Manufacturer Part": "Inductor_SMD:L_Coilcraft_XxL4040",
+            "puuid": "a4d354a2f7b24c56ac4f3ee62e31a868",
+            "uuid": "bff008b30b154f08a1cffc400bafb513",
+            "BOM_Supplier Part": "C9900003196",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-ADJ-TH_RM063-103",
+          "R3",
+          {
+            "BOM_Manufacturer Part": "RM063-103 10K",
+            "puuid": "fc1142a9a0fa47d98f5aaaf9be786de7",
+            "uuid": "18c36d88f1774b7ba396248e502cf897",
+            "BOM_Supplier Part": "C38793",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JML"
+          }
+        ]
+      ],
+      "updateTime": 1700106185,
+      "createTime": 1698088984,
+      "histories": [],
+      "created_at": "2023-10-23 15:23:04",
+      "updated_at": "2023-11-15 22:43:05"
+    }
+  ],
+  "sort": [],
+  "title": "6coils-1",
+  "foldername": "6coils-1",
+  "schfilename": "6coils-1.json",
+  "schfilemtime": 1698086918090
+}

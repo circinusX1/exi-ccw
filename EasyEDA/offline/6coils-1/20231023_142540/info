@@ -1,0 +1,168 @@
+{
+  "uuid": "4f73cbe1dd1e32503a19deda3f6c19a7",
+  "path": "Offline/6coils-1",
+  "name": "6coils-1",
+  "content": "",
+  "created_at": "2023-10-23 14:16:17",
+  "updated_at": "2023-10-23 14:25:40",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e6319d29180ff7c28a1f5384c88fc9ab",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "438fa0ddf928e3bbcf5e6610bad77b37",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "e545f26e87c74952857381bd0bff848e": 4,
+        "404aa9221ff94de597b8734806e7c74f": 4,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "18c36d88f1774b7ba396248e502cf897": 1,
+        "b4655a423cc94d03941390baa2cb2440": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "33n",
+          1,
+          "C0603",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "47u",
+          3,
+          "CASE-A_3216",
+          "C3,C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          4,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-ADJ-TH_RM063-103",
+          "R3",
+          {
+            "BOM_Manufacturer Part": "RM063-103 10K",
+            "puuid": "fc1142a9a0fa47d98f5aaaf9be786de7",
+            "uuid": "18c36d88f1774b7ba396248e502cf897",
+            "BOM_Supplier Part": "C38793",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JML"
+          }
+        ],
+        [
+          "IND-COIL-SER1360",
+          6,
+          "IND-SMD_3P-L14.5-W14.5",
+          "U1,U2,U3,U4,U5,U6",
+          {
+            "BOM_Manufacturer Part": "IND-COIL-SER1360",
+            "puuid": "724691ff77f2403dba8bf3c785d2c50f",
+            "uuid": "b4655a423cc94d03941390baa2cb2440",
+            "BOM_Supplier Part": "C2920778",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ]
+      ],
+      "updateTime": 1698085540,
+      "createTime": 1698084977,
+      "histories": [],
+      "created_at": "2023-10-23 14:16:17",
+      "updated_at": "2023-10-23 14:25:40"
+    }
+  ],
+  "sort": [],
+  "title": "6coils-1",
+  "foldername": "6coils-1",
+  "schfilename": "6coils-1.json",
+  "schfilemtime": 1698085540362
+}

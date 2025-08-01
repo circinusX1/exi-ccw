@@ -1,0 +1,130 @@
+{
+  "uuid": "9d79a55138661fdd65740fb2c182b973",
+  "path": "Offline/EXI",
+  "name": "EXI",
+  "content": "",
+  "created_at": "2025-02-01 17:16:31",
+  "updated_at": "2025-02-01 17:36:11",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "6f4856204e9a6a814a48bcbef1bea974",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "83daa19776f5384f3b2544218487f57e",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "513f7372141c4fcf97626b32e6be0fe3": 3,
+        "cb20eaf2638a4460b65cbea53df39779": 2,
+        "fcaba4851eda4ca19d4326a668633a30": 4,
+        "96e1523ff3ce45718fada03614ed572b": 2,
+        "6f908f7c1bc24f1485b510a01a7261e9": 2,
+        "ec65164c1b92429e88d01a2b6f2a348d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "9V",
+          2,
+          "BATTERY:BATTERYHOLDER_KEYSTONE_1042_1X18650",
+          "BT1,BT2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "VOL",
+          2,
+          "RES-ADJ-TH_3386P",
+          "RP1,RP4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TONE",
+          2,
+          "RES-ADJ-TH_3386P",
+          "RP2,RP3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GuitarSwitch",
+          2,
+          "GUITARSWITCH",
+          "SW1,SW2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PICKUP ACTIVE",
+          3,
+          "PHOENIX-3P",
+          "U1,U2,U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "STEREO JACK",
+          2,
+          "AUDIO-JACK-TRRS-SMD",
+          "U3,U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PASSIVE PICKUP",
+          1,
+          "PICKUP_COIL",
+          "U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1738449371,
+      "createTime": 1738448191,
+      "histories": [],
+      "created_at": "2025-02-01 17:16:31",
+      "updated_at": "2025-02-01 17:36:11"
+    }
+  ],
+  "sort": [],
+  "title": "EXI",
+  "foldername": "EXI",
+  "schfilename": "EXI.json",
+  "schfilemtime": 1738449371282
+}

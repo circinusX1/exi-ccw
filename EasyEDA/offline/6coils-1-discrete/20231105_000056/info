@@ -1,0 +1,220 @@
+{
+  "uuid": "ee278e7596d6c38888b1b080a302dc3d",
+  "path": "Offline/6coils-1-discrete",
+  "name": "6coils-1-discrete",
+  "content": "",
+  "created_at": "2023-11-04 23:20:43",
+  "updated_at": "2023-11-05 00:00:56",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c98731ff4fbdf7d8f459b5771641cdaa",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "86d6167a1630d2335c7bf0fa22e1aa4f",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "e545f26e87c74952857381bd0bff848e": 4,
+        "404aa9221ff94de597b8734806e7c74f": 4,
+        "24eeb2ceca08480b92b847b6a310acda": 1,
+        "18c36d88f1774b7ba396248e502cf897": 1,
+        "bff008b30b154f08a1cffc400bafb513": 12
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "INDUCTOR_SMD:L_COILCRAFT_XXL4040",
+          12,
+          "IND-SMD_L4.0-W4.0",
+          "A11,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L12",
+          {
+            "BOM_Manufacturer Part": "Inductor_SMD:L_Coilcraft_XxL4040",
+            "puuid": "a4d354a2f7b24c56ac4f3ee62e31a868",
+            "uuid": "bff008b30b154f08a1cffc400bafb513",
+            "BOM_Supplier Part": "C9900003196",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CPOL-RADIAL-100UF-25V",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3a9b1c4351184f37a5c13cd129a34b3e",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "33n",
+          1,
+          "CPOL-RADIAL-10UF-25V-KIT",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "34090831a876492fbeb0d6d94e3e09e1",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "47u",
+          3,
+          "CPOL-RADIAL-100UF-25V",
+          "C3,C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3a9b1c4351184f37a5c13cd129a34b3e",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          4,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "2N3904(SOT-23)",
+          1,
+          "TO92-3L_L4.0-W1.5-P1.27",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "a31999a8d8f2499d8b2eb6e230c5c608",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R_AXIAL-0.4",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "R_AXIAL-0.4",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10K",
+          1,
+          "RES-ADJ-TH_RM063-103",
+          "R3",
+          {
+            "BOM_Manufacturer Part": "RM063-103 10K",
+            "puuid": "fc1142a9a0fa47d98f5aaaf9be786de7",
+            "uuid": "18c36d88f1774b7ba396248e502cf897",
+            "BOM_Supplier Part": "C38793",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "JML"
+          }
+        ]
+      ],
+      "updateTime": 1699156856,
+      "createTime": 1699154443,
+      "histories": [],
+      "created_at": "2023-11-04 23:20:43",
+      "updated_at": "2023-11-05 00:00:56"
+    },
+    {
+      "uuid": "30d710b02b50bbeef28e863847637b57",
+      "puuid": "ee278e7596d6c38888b1b080a302dc3d",
+      "title": "PCB_6coils-1-discrete",
+      "filename": "PCB_6coils-1-discrete.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3a9b1c4351184f37a5c13cd129a34b3e": 4,
+        "34090831a876492fbeb0d6d94e3e09e1": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "a4d354a2f7b24c56ac4f3ee62e31a868": 6,
+        "a31999a8d8f2499d8b2eb6e230c5c608": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "9d6e712ce00646ba83f5df75ac998085": 1,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1
+      },
+      "BOM": [],
+      "updateTime": 1699155836,
+      "createTime": 1699155836,
+      "histories": [],
+      "created_at": "2023-11-04 23:43:56",
+      "updated_at": "2023-11-04 23:43:56"
+    },
+    {
+      "uuid": "6ca0f272dba6710a646b95ff6d349a79",
+      "puuid": "ee278e7596d6c38888b1b080a302dc3d",
+      "title": "PCB_6coils-1-discrete_2",
+      "filename": "PCB_6coils-1-discrete_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a4d354a2f7b24c56ac4f3ee62e31a868": 12,
+        "3a9b1c4351184f37a5c13cd129a34b3e": 4,
+        "34090831a876492fbeb0d6d94e3e09e1": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 4,
+        "a31999a8d8f2499d8b2eb6e230c5c608": 1,
+        "5905db98cde4487fbb177070aa85bbe1": 1,
+        "9d6e712ce00646ba83f5df75ac998085": 1,
+        "fc1142a9a0fa47d98f5aaaf9be786de7": 1
+      },
+      "BOM": [],
+      "updateTime": 1699156820,
+      "createTime": 1699156447,
+      "histories": [],
+      "created_at": "2023-11-04 23:54:07",
+      "updated_at": "2023-11-05 00:00:20"
+    }
+  ],
+  "sort": [],
+  "title": "6coils-1-discrete",
+  "foldername": "6coils-1-discrete",
+  "schfilename": "6coils-1-discrete.json",
+  "schfilemtime": 1699156856159
+}

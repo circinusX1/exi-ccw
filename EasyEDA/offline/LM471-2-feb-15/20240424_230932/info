@@ -1,0 +1,2005 @@
+{
+  "uuid": "a80d92a583fbf76ba9f08146177b787a",
+  "path": "Offline/LM471-2-feb-15",
+  "name": "LM471-2-feb-15",
+  "content": "",
+  "created_at": "2024-02-15 16:05:33",
+  "updated_at": "2024-04-24 23:09:32",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9c8f84d95ed6cff99ffbf09f235a4cdc",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "ccebee52399d269b0c1980de14b7cc34",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 9,
+        "07d9b10260a54feb89de280fb06c2313": 1,
+        "4be50b92e47b4f88a54e127c17ce78cb": 3,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 1,
+        "e545f26e87c74952857381bd0bff848e": 5,
+        "404aa9221ff94de597b8734806e7c74f": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "560p",
+          2,
+          "CASE-A_3216",
+          "C3,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "680p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CASE-A_3216",
+          "C7,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          5,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "6.8k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "15k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1714014572,
+      "createTime": 1708031134,
+      "histories": [],
+      "created_at": "2024-02-15 16:05:34",
+      "updated_at": "2024-04-24 23:09:32"
+    },
+    {
+      "uuid": "027a9444362c148511816e9fe63e0204",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "6c-v3",
+      "filename": "6c-v3.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 5,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "560p",
+          2,
+          "CASE-A_3216",
+          "C3,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CASE-A_3216",
+          "C7,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          5,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "6.8k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "15k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1714014545,
+      "createTime": 1714014452,
+      "histories": [],
+      "created_at": "2024-04-24 23:07:32",
+      "updated_at": "2024-04-24 23:09:05"
+    },
+    {
+      "uuid": "437d402f45c5ab46e96a929c1864a28b",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_6",
+      "filename": "PCB_LM471-2-feb-15_6.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4a90dea4e43540f3916ebec13d3a6495": 7,
+        "009fe60beee44ea69e943b554f913d2d": 6,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 5,
+        "f83673d09e13450d934ca6be4be5af8f": 1
+      },
+      "BOM": [],
+      "updateTime": 1708281334,
+      "createTime": 1708275255,
+      "histories": [],
+      "created_at": "2024-02-18 11:54:15",
+      "updated_at": "2024-02-18 13:35:34"
+    },
+    {
+      "uuid": "a5fcac9ebe0c1a0e5483b1b7238e8ab9",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-march22-good-route-GND",
+      "filename": "PCB_LM471-2-march22-good-route-GND.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 5,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2.2u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CASE-A_3216",
+          "C7,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "6.8k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "39k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1714014439,
+      "createTime": 1711165279,
+      "histories": [],
+      "created_at": "2024-03-22 23:41:19",
+      "updated_at": "2024-04-24 23:07:19"
+    },
+    {
+      "uuid": "a55480ec0491e886e6217e742f0008b9",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_6-final",
+      "filename": "PCB_LM471-2-feb-15_6-final.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "4a90dea4e43540f3916ebec13d3a6495": 7,
+        "009fe60beee44ea69e943b554f913d2d": 6,
+        "398691f1f785460098bbe5ee6590333c": 17,
+        "f83673d09e13450d934ca6be4be5af8f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C6,C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR",
+          1,
+          "HDR-F-2.54_1X3",
+          "H",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "1m",
+          6,
+          "L_COILCRAFT_XAL5030",
+          "L1,L2,L3,L4,L5,L6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "009fe60beee44ea69e943b554f913d2d",
+            "uuid": "4b1cd1d520b147588b05d282ad653846"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R1,R2,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51K",
+          2,
+          "R0603",
+          "R3,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51k",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "570k",
+          2,
+          "R0603",
+          "R6,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "0",
+          8,
+          "R0603",
+          "R10,R11,R12,R13,R14,R15,R16,R17",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "ideal_opamp",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1708294780,
+      "createTime": 1708293209,
+      "histories": [],
+      "created_at": "2024-02-18 16:53:29",
+      "updated_at": "2024-02-18 17:19:40"
+    },
+    {
+      "uuid": "67b9733fcc92bc678b8e1ada968c6781",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_6-route-march-",
+      "filename": "PCB_LM471-2-feb-15_6-route-march-.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "398691f1f785460098bbe5ee6590333c": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2.2u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          2,
+          "CASE-A_3216",
+          "C6,C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          5,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R1,R2,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "680k",
+          1,
+          "R0603",
+          "R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51K",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "120k",
+          1,
+          "R0603",
+          "R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1711164935,
+      "createTime": 1710891310,
+      "histories": [],
+      "created_at": "2024-03-19 19:35:10",
+      "updated_at": "2024-03-22 23:35:35"
+    },
+    {
+      "uuid": "9555fd8100226483700b9837be2caf48",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_6-route-march-nocop",
+      "filename": "PCB_LM471-2-feb-15_6-route-march-nocop.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "398691f1f785460098bbe5ee6590333c": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1711164149,
+      "createTime": 1711059594,
+      "histories": [],
+      "created_at": "2024-03-21 18:19:54",
+      "updated_at": "2024-03-22 23:22:29"
+    },
+    {
+      "uuid": "5d3d8c3d45e185d976a8d9038bbc7abd",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-march22",
+      "filename": "PCB_LM471-2-march22.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "398691f1f785460098bbe5ee6590333c": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2.2u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CASE-A_3216",
+          "C7,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "6.8k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "39k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1711317357,
+      "createTime": 1711164941,
+      "histories": [],
+      "created_at": "2024-03-22 23:35:41",
+      "updated_at": "2024-03-24 17:55:57"
+    },
+    {
+      "uuid": "2e340fd4cbd886d5d154435bb4359962",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_6-route",
+      "filename": "PCB_LM471-2-feb-15_6-route.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C6,C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR",
+          1,
+          "HDR-F-2.54_1X3",
+          "H",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "1m",
+          6,
+          "L_COILCRAFT_XAL5030",
+          "L1,L2,L3,L4,L5,L6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "009fe60beee44ea69e943b554f913d2d",
+            "uuid": "4b1cd1d520b147588b05d282ad653846"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0603",
+          "R1,R2,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51K",
+          2,
+          "R0603",
+          "R3,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "51k",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "570k",
+          2,
+          "R0603",
+          "R6,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "ideal_opamp",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ],
+        [
+          "H",
+          5,
+          "HDR-TH_3P-P2.54-V",
+          "U+,U-,UA,UC,UF",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "C265013",
+            "BOM_Manufacturer": "JST Sales America",
+            "BOM_Manufacturer Part": "RE-H032TD-1130",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "51fa87820ad44a0f8b84203923ad3156"
+          }
+        ]
+      ],
+      "updateTime": 1710891294,
+      "createTime": 1708281330,
+      "histories": [],
+      "created_at": "2024-02-18 13:35:30",
+      "updated_at": "2024-03-19 19:34:54"
+    },
+    {
+      "uuid": "6618a61570eb9d1b035460dfa81efd07",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_6-route-march-thin",
+      "filename": "PCB_LM471-2-feb-15_6-route-march-thin.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2.2u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1u",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "15k",
+          3,
+          "R0603",
+          "R1,R2,R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1711059524,
+      "createTime": 1711058719,
+      "histories": [],
+      "created_at": "2024-03-21 18:05:19",
+      "updated_at": "2024-03-21 18:18:44"
+    },
+    {
+      "uuid": "bfc5bd59ad5eac9a4a923220949bf66e",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-march22-good-route",
+      "filename": "PCB_LM471-2-march22-good-route.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2.2u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          2,
+          "CASE-A_3216",
+          "C7,C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007W",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "6.8k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "39k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1714012966,
+      "createTime": 1711165056,
+      "histories": [],
+      "created_at": "2024-03-22 23:37:36",
+      "updated_at": "2024-04-24 22:42:46"
+    }
+  ],
+  "sort": [],
+  "title": "LM471-2-feb-15",
+  "foldername": "LM471-2-feb-15",
+  "schfilename": "LM471-2-feb-15.json",
+  "schfilemtime": 1714014572655
+}

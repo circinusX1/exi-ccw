@@ -1,0 +1,309 @@
+{
+  "uuid": "cc7feba5c522c086b2bda0250d3db268",
+  "path": "Offline/6coils-blue-v4",
+  "name": "6coils-blue-v4",
+  "content": "",
+  "created_at": "2024-08-15 13:18:23",
+  "updated_at": "2024-09-24 10:15:09",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8a3c045ab174bb980eed9617e9b183af",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "e678b3c1d94cc99e7189f11bdf11fd82",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 9,
+        "4be50b92e47b4f88a54e127c17ce78cb": 3,
+        "e545f26e87c74952857381bd0bff848e": 5,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1,
+        "3398ba973e884e058569040caec61957": 1,
+        "404aa9221ff94de597b8734806e7c74f": 6,
+        "f0c6eca560654c9e899de893d32d11f4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "470p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "3.3n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "HDR-M-2.54_1X1",
+          "IGND1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "HDR-M-2.54_1X1",
+          "IGND2",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          2,
+          "HDR-M-2.54_1X1",
+          "IGND3,IGND6",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "IGND4",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "IGND5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "33k",
+          3,
+          "R0603",
+          "R1,R2,R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "720k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071EE",
+          1,
+          "?",
+          "U1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "f0c6eca560654c9e899de893d32d11f4"
+          }
+        ]
+      ],
+      "updateTime": 1727187309,
+      "createTime": 1723742303,
+      "histories": [],
+      "created_at": "2024-08-15 13:18:23",
+      "updated_at": "2024-09-24 10:15:09"
+    }
+  ],
+  "sort": [],
+  "title": "6coils-blue-v4",
+  "foldername": "6coils-blue-v4",
+  "schfilename": "6coils-blue-v4.json",
+  "schfilemtime": 1727187309137
+}

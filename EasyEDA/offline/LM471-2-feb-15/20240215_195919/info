@@ -1,0 +1,240 @@
+{
+  "uuid": "a80d92a583fbf76ba9f08146177b787a",
+  "path": "Offline/LM471-2-feb-15",
+  "name": "LM471-2-feb-15",
+  "content": "",
+  "created_at": "2024-02-15 16:05:33",
+  "updated_at": "2024-02-15 19:59:19",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9c8f84d95ed6cff99ffbf09f235a4cdc",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "519ecbc2cf2aa18454da3fb4c510c46c",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e545f26e87c74952857381bd0bff848e": 1,
+        "bb009484ef804a24ac5d18c54b249586": 8,
+        "07d9b10260a54feb89de280fb06c2313": 1,
+        "13fbe66358ac415f8f844f8a7a60755f": 1,
+        "4be50b92e47b4f88a54e127c17ce78cb": 4,
+        "a5cb8fc803084158bb825edf2c7447ef": 1,
+        "4b1cd1d520b147588b05d282ad653846": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CAPACITOR_SMD0805_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "4a90dea4e43540f3916ebec13d3a6495",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CAPACITOR_SMD1206_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea2c0d681960415da1cec6202769bf71",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "560p",
+          1,
+          "CAPACITOR_SMD1206_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea2c0d681960415da1cec6202769bf71",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CAPACITOR_SMD1206_HANDSOLDERING_REVA_DATE21JUN2010",
+          "C4,C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea2c0d681960415da1cec6202769bf71",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "1m",
+          6,
+          "L_COILCRAFT_XAL5030",
+          "L1,L2,L3,L4,L5,L6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "009fe60beee44ea69e943b554f913d2d",
+            "uuid": "4b1cd1d520b147588b05d282ad653846"
+          }
+        ],
+        [
+          "51k",
+          3,
+          "R0603",
+          "R1,R2,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          4,
+          "R0603",
+          "R3,R5,R6,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "AXIAL-0.3",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b9efc06d0fb742f99a478d48de211eb9",
+            "uuid": "a5cb8fc803084158bb825edf2c7447ef"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "R0603",
+          "R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "ideal_opamp",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ],
+        [
+          "9",
+          1,
+          "HDR1X2",
+          "V1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "05ca98c924be4d7f9936cfbc00888d3a",
+            "uuid": "13fbe66358ac415f8f844f8a7a60755f"
+          }
+        ]
+      ],
+      "updateTime": 1708045159,
+      "createTime": 1708031134,
+      "histories": [],
+      "created_at": "2024-02-15 16:05:34",
+      "updated_at": "2024-02-15 19:59:19"
+    },
+    {
+      "uuid": "1de2dc8e679197c9dda380780e72815d",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15",
+      "filename": "PCB_LM471-2-feb-15.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bdbabf89aadf439cb964defe03ef0610": 1,
+        "d8f3b09873bf4bf89243089a133a0e9f": 5,
+        "1f261cf72cb1479ca32177c31156ede3": 6,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "b9efc06d0fb742f99a478d48de211eb9": 1,
+        "2e77f65436974d3ab6358c8d7604a2ec": 1,
+        "05ca98c924be4d7f9936cfbc00888d3a": 1
+      },
+      "BOM": [],
+      "updateTime": 1708044192,
+      "createTime": 1708044049,
+      "histories": [],
+      "created_at": "2024-02-15 19:40:49",
+      "updated_at": "2024-02-15 19:43:12"
+    },
+    {
+      "uuid": "b82b41f0e78fb2a4fb7f6acbda24231e",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15_2",
+      "filename": "PCB_LM471-2-feb-15_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bdbabf89aadf439cb964defe03ef0610": 1,
+        "d8f3b09873bf4bf89243089a133a0e9f": 5,
+        "1f261cf72cb1479ca32177c31156ede3": 6,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "b9efc06d0fb742f99a478d48de211eb9": 1,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "05ca98c924be4d7f9936cfbc00888d3a": 1
+      },
+      "BOM": [],
+      "updateTime": 1708044317,
+      "createTime": 1708044317,
+      "histories": [],
+      "created_at": "2024-02-15 19:45:17",
+      "updated_at": "2024-02-15 19:45:17"
+    }
+  ],
+  "sort": [],
+  "title": "LM471-2-feb-15",
+  "foldername": "LM471-2-feb-15",
+  "schfilename": "LM471-2-feb-15.json",
+  "schfilemtime": 1708045159832
+}

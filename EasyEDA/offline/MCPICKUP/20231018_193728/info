@@ -1,0 +1,85 @@
+{
+  "uuid": "053353f601781e5362fe44179d94f725",
+  "path": "Offline/MCPICKUP",
+  "name": "MCPICKUP",
+  "content": "",
+  "created_at": "2023-10-18 19:33:52",
+  "updated_at": "2023-10-18 19:37:28",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2e1ff90936076a706601b93967df0ddc",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "ca447fdaa23569c31a2d1d7397475da6",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0b65abe55b37496eaa9a84fd9c05919c": 1,
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "978dd86cb8f545279789152357b8a3b4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2N7002",
+          1,
+          "SOT-23_L2.9-W1.3-P0.95-LS2.4-BR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Nexperia",
+            "BOM_Manufacturer Part": "2N7002,215",
+            "BOM_Supplier Part": "C65189",
+            "BOM_Paste Type": "expand",
+            "puuid": "2a819e02584e46aea9f04b619de61270",
+            "uuid": "978dd86cb8f545279789152357b8a3b4"
+          }
+        ],
+        [
+          "100K",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          1,
+          "RES-ADJ-TH_3296W",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "BOM_Value(Ω)": "10k",
+            "puuid": "5e404972447a403ca43a83aeb15e254e",
+            "uuid": "0b65abe55b37496eaa9a84fd9c05919c"
+          }
+        ]
+      ],
+      "updateTime": 1697672248,
+      "createTime": 1697672032,
+      "histories": [],
+      "created_at": "2023-10-18 19:33:52",
+      "updated_at": "2023-10-18 19:37:28"
+    }
+  ],
+  "sort": [],
+  "title": "MCPICKUP",
+  "foldername": "MCPICKUP",
+  "schfilename": "MCPICKUP.json",
+  "schfilemtime": 1697672248781
+}

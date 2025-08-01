@@ -1,0 +1,165 @@
+{
+  "uuid": "a3ca6a13a64ea62dcde7fd63d8075f12",
+  "path": "Offline/Amp2",
+  "name": "Amp2",
+  "content": "",
+  "created_at": "2024-01-01 22:02:55",
+  "updated_at": "2024-01-01 22:24:29",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9ca4e1f5be3a70640baa027f8c10d794",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "c73b46030437c41e6cb602d147740a32",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "4e5e5775fd634dd48141eafc77c26e7a": 2,
+        "bb009484ef804a24ac5d18c54b249586": 16,
+        "404aa9221ff94de597b8734806e7c74f": 5,
+        "e545f26e87c74952857381bd0bff848e": 1,
+        "989e0dc83db94ab0b217665fe2e3a9d7": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "CASE-A_3216",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x1",
+          5,
+          "HDR-M-2.54_1X1",
+          "J1,J2,J3,J4,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "2N2222",
+          2,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR",
+          "Q1,Q2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "4a81c52f384a4e1ba3f57a3703e0f5f9",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "100k",
+          4,
+          "R0603",
+          "R1,R2,R8,R9",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          5,
+          "R0603",
+          "R3,R4,R12,R13,R14",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          4,
+          "R0603",
+          "R5,R6,R10,R11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "12k",
+          1,
+          "R0603",
+          "R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R0603",
+          "R15,R16",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "HG741CM/TR",
+          1,
+          "SOP-8_L5.0-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "HG741CM/TR",
+            "puuid": "8dd4e509197045bca8e1a82eed28ab26",
+            "uuid": "989e0dc83db94ab0b217665fe2e3a9d7",
+            "BOM_Supplier Part": "C2926357",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "HGSEMI(华冠)"
+          }
+        ]
+      ],
+      "updateTime": 1704165869,
+      "createTime": 1704164575,
+      "histories": [],
+      "created_at": "2024-01-01 22:02:55",
+      "updated_at": "2024-01-01 22:24:29"
+    }
+  ],
+  "sort": [],
+  "title": "Amp2",
+  "foldername": "Amp2",
+  "schfilename": "Amp2.json",
+  "schfilemtime": 1704165869496
+}

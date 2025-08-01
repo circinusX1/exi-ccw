@@ -1,0 +1,123 @@
+{
+  "uuid": "f52c8a7436ae7b55a16ab8ef756b4681",
+  "path": "Offline/pickup",
+  "name": "pickup",
+  "content": "",
+  "created_at": "2023-07-27 08:54:12",
+  "updated_at": "2023-07-27 09:39:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f7979d7b0bbf75277f450c4336da2471",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "36c465ae68f4ec420735ae5af6182830",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c7769faac45b4fad86b520ccac35a04d": 1,
+        "bb009484ef804a24ac5d18c54b249586": 2,
+        "fcaba4851eda4ca19d4326a668633a30": 1,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 1,
+        "12960228eb8c4ddeaecb1ef105b9e058": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "ZPT054B",
+          1,
+          "LED-TH_BD5.9-RD_DY-PT334-6B",
+          "LED1",
+          {
+            "BOM_Manufacturer Part": "ZPT054B",
+            "puuid": "60cfe00cb38844a7b355fc2d7671805e",
+            "uuid": "12960228eb8c4ddeaecb1ef105b9e058",
+            "BOM_Supplier Part": "C575323",
+            "BOM_Supplier": "LCSC"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce6e0cc9b0684cd986edbf86d7075dfd",
+            "uuid": "fcaba4851eda4ca19d4326a668633a30"
+          }
+        ],
+        [
+          "LM741M/TR",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "LM741M/TR",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "c7769faac45b4fad86b520ccac35a04d",
+            "BOM_Supplier Part": "C356704",
+            "BOM_Supplier": "LCSC"
+          }
+        ]
+      ],
+      "updateTime": 1690465163,
+      "createTime": 1690462453,
+      "histories": [],
+      "created_at": "2023-07-27 08:54:13",
+      "updated_at": "2023-07-27 09:39:23"
+    }
+  ],
+  "sort": [],
+  "title": "pickup",
+  "foldername": "pickup",
+  "schfilename": "pickup.json",
+  "schfilemtime": 1690465163816
+}

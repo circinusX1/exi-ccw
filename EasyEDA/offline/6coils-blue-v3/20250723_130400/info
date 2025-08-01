@@ -1,0 +1,5112 @@
+{
+  "uuid": "a80d92a583fbf76ba9f08146177b787a",
+  "path": "Offline/6coils-blue-v3",
+  "name": "6coils-blue-v3",
+  "content": "",
+  "created_at": "2024-02-15 16:05:33",
+  "updated_at": "2025-07-23 13:04:00",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "9c8f84d95ed6cff99ffbf09f235a4cdc",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 9,
+        "4be50b92e47b4f88a54e127c17ce78cb": 3,
+        "e545f26e87c74952857381bd0bff848e": 5,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1,
+        "3398ba973e884e058569040caec61957": 1,
+        "404aa9221ff94de597b8734806e7c74f": 7,
+        "eaa426c16eb0422e802d2b5db1bace5c": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "GND",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND-,INGND,INGND1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "33k",
+          3,
+          "R0603",
+          "R1,R2,R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ]
+      ],
+      "updateTime": 1739720435,
+      "createTime": 1708031134,
+      "histories": [],
+      "created_at": "2024-02-15 16:05:34",
+      "updated_at": "2025-02-16 10:40:35"
+    },
+    {
+      "uuid": "37dd0a6a262c9792af7ac9468ba88c56",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-6-routed-v5",
+      "filename": "EXI-6-routed-v5.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1727194039,
+      "createTime": 1727194039,
+      "histories": [],
+      "created_at": "2024-09-24 12:07:19",
+      "updated_at": "2024-09-24 12:07:19"
+    },
+    {
+      "uuid": "9d0d824005896da111c638079e961421",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "ve-led-v2-ears-ordered",
+      "filename": "ve-led-v2-ears-ordered.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "b2142ad37752444c81455a204d85065a": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "330p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED0603-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "b2142ad37752444c81455a204d85065a",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "5.1k",
+          3,
+          "R0603",
+          "R1,R2,R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1714768227,
+      "createTime": 1714768227,
+      "histories": [],
+      "created_at": "2024-05-03 16:30:27",
+      "updated_at": "2024-05-03 16:30:27"
+    },
+    {
+      "uuid": "27e6bc0c1bf7a6501376be29979c400a",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-2-feb-15",
+      "filename": "PCB_LM471-2-feb-15.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "b2142ad37752444c81455a204d85065a": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "008d4bed67c0475a927567e474ab3a8b": 1
+      },
+      "BOM": [],
+      "updateTime": 1714840631,
+      "createTime": 1714840631,
+      "histories": [],
+      "created_at": "2024-05-04 12:37:11",
+      "updated_at": "2024-05-04 12:37:11"
+    },
+    {
+      "uuid": "73904b751fa7948b42146375945ca2b3",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "ve-led-v4",
+      "filename": "ve-led-v4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "5.1k",
+          3,
+          "R0603",
+          "R1,R2,R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1723213901,
+      "createTime": 1723213281,
+      "histories": [],
+      "created_at": "2024-08-09 10:21:21",
+      "updated_at": "2024-08-09 10:31:41"
+    },
+    {
+      "uuid": "d12441ee168d4034790215b515056890",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "ve-led-v5-1-rect",
+      "filename": "ve-led-v5-1-rect.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "5.1k",
+          3,
+          "R0603",
+          "R1,R2,R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1723418856,
+      "createTime": 1723418856,
+      "histories": [],
+      "created_at": "2024-08-11 19:27:36",
+      "updated_at": "2024-08-11 19:27:36"
+    },
+    {
+      "uuid": "d66cde9b34fa4f2969eb463cec831f3e",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI7-BASELINE-NO-ROUTE",
+      "filename": "EXI7-BASELINE-NO-ROUTE.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1727188892,
+      "createTime": 1727188610,
+      "histories": [],
+      "created_at": "2024-09-24 10:36:50",
+      "updated_at": "2024-09-24 10:41:32"
+    },
+    {
+      "uuid": "d9fe3cf373643ee56063bc33d58bbd9e",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-7-unrouted",
+      "filename": "EXI-7-unrouted.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "832276c381cb425eb3a3587b98e55fc2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TL071CDE4",
+            "puuid": "832276c381cb425eb3a3587b98e55fc2",
+            "uuid": "eaa426c16eb0422e802d2b5db1bace5c",
+            "BOM_Supplier Part": "C4370279",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ]
+      ],
+      "updateTime": 1727194614,
+      "createTime": 1727189520,
+      "histories": [],
+      "created_at": "2024-09-24 10:52:00",
+      "updated_at": "2024-09-24 12:16:54"
+    },
+    {
+      "uuid": "4ef1eb22ab03d4b084840b30157cc6b6",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-6-routed",
+      "filename": "EXI-6-routed.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TL071CDE4",
+            "puuid": "832276c381cb425eb3a3587b98e55fc2",
+            "uuid": "eaa426c16eb0422e802d2b5db1bace5c",
+            "BOM_Supplier Part": "C4370279",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ]
+      ],
+      "updateTime": 1727195362,
+      "createTime": 1727193681,
+      "histories": [],
+      "created_at": "2024-09-24 12:01:21",
+      "updated_at": "2024-09-24 12:29:22"
+    },
+    {
+      "uuid": "1483e58022303fae48ebafcd2f1054c3",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-7-v5-routed",
+      "filename": "EXI-7-v5-routed.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "832276c381cb425eb3a3587b98e55fc2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1727195138,
+      "createTime": 1727194724,
+      "histories": [],
+      "created_at": "2024-09-24 12:18:44",
+      "updated_at": "2024-09-24 12:25:38"
+    },
+    {
+      "uuid": "55c6f998c79243bc085b87c70a748160",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "ve-led-v4-1-rect_baseline",
+      "filename": "ve-led-v4-1-rect_baseline.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3,
+        "832276c381cb425eb3a3587b98e55fc2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1723749105,
+      "createTime": 1723214243,
+      "histories": [],
+      "created_at": "2024-08-09 10:37:23",
+      "updated_at": "2024-08-15 15:11:45"
+    },
+    {
+      "uuid": "c52ec699755870249ec79cb491e459fa",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "VERSION-5",
+      "filename": "VERSION-5.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1726799433,
+      "createTime": 1726798798,
+      "histories": [],
+      "created_at": "2024-09-19 22:19:58",
+      "updated_at": "2024-09-19 22:30:33"
+    },
+    {
+      "uuid": "88aa20bd975f54bcb5b34966ecfcda22",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "PCB_LM471-singlerowickup",
+      "filename": "PCB_LM471-singlerowickup.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "b2142ad37752444c81455a204d85065a": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "008d4bed67c0475a927567e474ab3a8b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "330p",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED0603-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "b2142ad37752444c81455a204d85065a",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "5.1k",
+          3,
+          "R0603",
+          "R1,R2,R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "008d4bed67c0475a927567e474ab3a8b",
+            "uuid": "07d9b10260a54feb89de280fb06c2313"
+          }
+        ]
+      ],
+      "updateTime": 1714955369,
+      "createTime": 1714840659,
+      "histories": [],
+      "created_at": "2024-05-04 12:37:39",
+      "updated_at": "2024-05-05 20:29:29"
+    },
+    {
+      "uuid": "537eb126b291f08747fa45ed4ab5779d",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "ve-led-v2-final",
+      "filename": "ve-led-v2-final.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1723213256,
+      "createTime": 1715118134,
+      "histories": [],
+      "created_at": "2024-05-07 17:42:14",
+      "updated_at": "2024-08-09 10:20:56"
+    },
+    {
+      "uuid": "611a1fc5b429c310434c54072e8684e5",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-6-unrouted",
+      "filename": "EXI-6-unrouted.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TL071CDE4",
+            "puuid": "832276c381cb425eb3a3587b98e55fc2",
+            "uuid": "eaa426c16eb0422e802d2b5db1bace5c",
+            "BOM_Supplier Part": "C4370279",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ]
+      ],
+      "updateTime": 1727193678,
+      "createTime": 1727189472,
+      "histories": [],
+      "created_at": "2024-09-24 10:51:12",
+      "updated_at": "2024-09-24 12:01:18"
+    },
+    {
+      "uuid": "97170ec7c22417ff0a0b7b4e2cf39691",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-7",
+      "filename": "EXI-7.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1727191014,
+      "createTime": 1727188685,
+      "histories": [],
+      "created_at": "2024-09-24 10:38:05",
+      "updated_at": "2024-09-24 11:16:54"
+    },
+    {
+      "uuid": "529e726ec7e99c3a9995ba79139e62a6",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "ve-led-v4-1-rect-v4",
+      "filename": "ve-led-v4-1-rect-v4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "470p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "3.3n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "22k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "TL071CDE4",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TL071CDE4",
+            "puuid": "832276c381cb425eb3a3587b98e55fc2",
+            "uuid": "eaa426c16eb0422e802d2b5db1bace5c",
+            "BOM_Supplier Part": "C4370279",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ]
+      ],
+      "updateTime": 1723749370,
+      "createTime": 1723747824,
+      "histories": [],
+      "created_at": "2024-08-15 14:50:24",
+      "updated_at": "2024-08-15 15:16:10"
+    },
+    {
+      "uuid": "5192177b951a6e52d2669b993ae72149",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-7-V5",
+      "filename": "EXI-7-V5.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TL071CDE4",
+            "puuid": "832276c381cb425eb3a3587b98e55fc2",
+            "uuid": "eaa426c16eb0422e802d2b5db1bace5c",
+            "BOM_Supplier Part": "C4370279",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ]
+      ],
+      "updateTime": 1727191219,
+      "createTime": 1727191219,
+      "histories": [],
+      "created_at": "2024-09-24 11:20:19",
+      "updated_at": "2024-09-24 11:20:19"
+    },
+    {
+      "uuid": "a7b728f0758424fc96040a6c6a5b639e",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "VERSION-4",
+      "filename": "VERSION-4.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "470p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "C5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "YUJING",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "4be50b92e47b4f88a54e127c17ce78cb"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce25118ef0b041b8a773e71ca28ae65d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "BOM_Manufacturer Part": "DSchottky",
+            "puuid": "2ce37f022c42417db5d6f92690355fca",
+            "uuid": "3398ba973e884e058569040caec61957",
+            "BOM_Supplier Part": "C9900012836",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "null"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "3e75474d01924c0aafa22bc7bb0f2c89",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SURD/S530-A3",
+            "BOM_Supplier Part": "C87271",
+            "BOM_Supplier": "LCSC",
+            "puuid": "41a50a41bbea403eb6da88afda980328",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "R10",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "BOM_Supplier Part": "C81276",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "19c77e72422b43b59c26b9fa67af5de4",
+            "uuid": "404aa9221ff94de597b8734806e7c74f"
+          }
+        ],
+        [
+          "TL071CDE4",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "TL071CDE4",
+            "puuid": "832276c381cb425eb3a3587b98e55fc2",
+            "uuid": "eaa426c16eb0422e802d2b5db1bace5c",
+            "BOM_Supplier Part": "C4370279",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)"
+          }
+        ]
+      ],
+      "updateTime": 1723752337,
+      "createTime": 1723752337,
+      "histories": [],
+      "created_at": "2024-08-15 16:05:37",
+      "updated_at": "2024-08-15 16:05:37"
+    },
+    {
+      "uuid": "8fe0de3252dbb3a625b98b3ab6292cb5",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "2025-FEB",
+      "filename": "2025-FEB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 7,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "008d4bed67c0475a927567e474ab3a8b": 1,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "398691f1f785460098bbe5ee6590333c": 9
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "C4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "C8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "C1,C2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "O",
+          3,
+          "HDR-M-2.54_1X1",
+          "GND,OUT,VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "TL071",
+          1,
+          "TL071H",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "P",
+          4,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "J1,J2,J3,J5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "C7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "5.1k",
+          3,
+          "R0603",
+          "R1,R2,R10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "330k",
+          2,
+          "R0603",
+          "R3,R6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "R4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,R7",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1739719288,
+      "createTime": 1739719288,
+      "histories": [],
+      "created_at": "2025-02-16 10:21:28",
+      "updated_at": "2025-02-16 10:21:28"
+    },
+    {
+      "uuid": "7456ed43dd07cbef34ffbb79a412f5d1",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "2025-6-UNROUTE",
+      "filename": "2025-6-UNROUTE.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "41a50a41bbea403eb6da88afda980328": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "1U,1U.",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "33K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TL071CDE4",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "71",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "470p",
+          1,
+          "CASE-A_3216",
+          "620P",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "1M,R1M",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "4.7U",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "10U",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "4.7U",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "CF1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "L",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "RH1,75K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "103",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "5.1K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "GND",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "120P",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "RI1,30K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1739722326,
+      "createTime": 1739719783,
+      "histories": [],
+      "created_at": "2025-02-16 10:29:43",
+      "updated_at": "2025-02-16 11:12:06"
+    },
+    {
+      "uuid": "87dfc26d3f0f8b7ad716f5648ca780e3",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "2025-6-ROUTED",
+      "filename": "2025-6-ROUTED.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "41a50a41bbea403eb6da88afda980328": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "71",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "1U,2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "220",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "470",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "33k",
+          3,
+          "R0603",
+          "R1,R2,30",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "1M,1M",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,56",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "2K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ]
+      ],
+      "updateTime": 1739722338,
+      "createTime": 1739722338,
+      "histories": [],
+      "created_at": "2025-02-16 11:12:18",
+      "updated_at": "2025-02-16 11:12:18"
+    },
+    {
+      "uuid": "7522943ae132afd78bf506c05a1cd3fd",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "2025-6-ROUTED-BLUE",
+      "filename": "2025-6-ROUTED-BLUE.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "41a50a41bbea403eb6da88afda980328": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "71",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "1U,2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "220",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "470",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "33k",
+          3,
+          "R0603",
+          "R1,R2,30",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "1M,1M",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,56",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "2K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ]
+      ],
+      "updateTime": 1741900022,
+      "createTime": 1741899966,
+      "histories": [],
+      "created_at": "2025-03-13 17:06:06",
+      "updated_at": "2025-03-13 17:07:02"
+    },
+    {
+      "uuid": "9f2e1e2083c858935126c1eb246d5ac0",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "EXI-6-routed-v5-round",
+      "filename": "EXI-6-routed-v5-round.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "41a50a41bbea403eb6da88afda980328": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "1U,1U.",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "33k",
+          1,
+          "R0603",
+          "33K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TL071CDE4",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "71",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "470p",
+          1,
+          "CASE-A_3216",
+          "620P",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "1M,R1M",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "4.7U",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "10U",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "4.7U",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "220p",
+          1,
+          "CASE-A_3216",
+          "CF1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "L",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "RH1,75K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "RO",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "5.1K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "GND",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "120P",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "16k",
+          2,
+          "R0603",
+          "RI1,30K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1742674735,
+      "createTime": 1742673537,
+      "histories": [],
+      "created_at": "2025-03-22 15:58:57",
+      "updated_at": "2025-03-22 16:18:55"
+    },
+    {
+      "uuid": "d345589765db725994d69e9d15ddc824",
+      "puuid": "a80d92a583fbf76ba9f08146177b787a",
+      "title": "2025-JULY",
+      "filename": "2025-JULY.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ce25118ef0b041b8a773e71ca28ae65d": 8,
+        "3e75474d01924c0aafa22bc7bb0f2c89": 4,
+        "832276c381cb425eb3a3587b98e55fc2": 1,
+        "398691f1f785460098bbe5ee6590333c": 9,
+        "2ce37f022c42417db5d6f92690355fca": 1,
+        "19c77e72422b43b59c26b9fa67af5de4": 3,
+        "41a50a41bbea403eb6da88afda980328": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "4.7u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GND",
+          2,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "INGND,INGND1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "TL071CDT",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.2-BL",
+          "71",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "TI(德州仪器)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4370279"
+          }
+        ],
+        [
+          "10k",
+          1,
+          "R0603",
+          "10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1u",
+          2,
+          "CASE-A_3216",
+          "1U,2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1n",
+          1,
+          "CASE-A_3216",
+          "C3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "120p",
+          1,
+          "CASE-A_3216",
+          "220",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.7n",
+          1,
+          "CASE-A_3216",
+          "470",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "YUJING",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2u",
+          1,
+          "CASE-A_3216",
+          "2.2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1N5817",
+          1,
+          "D-FLAT_L4.3-W2.6-LS5.3-RD",
+          "D2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900012836"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-M-2.54_1X1",
+          "GND-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "LED-TH-5mm_R",
+          1,
+          "LED1206-FD",
+          "LED1",
+          {
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C87271"
+          }
+        ],
+        [
+          "33k",
+          3,
+          "R0603",
+          "R1,R2,30",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1M",
+          2,
+          "R0603",
+          "1M,1M",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "56k",
+          2,
+          "R0603",
+          "R5,56",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "5.1k",
+          1,
+          "R0603",
+          "2K",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "OUT",
+          1,
+          "HDR-M-2.54_1X1",
+          "OUT",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "VCC",
+          1,
+          "HDR-M-2.54_1X1",
+          "VCC",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN+",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN+",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "IN-",
+          1,
+          "TESTPOINT-SMD_PAD_5.84MM-1.54MM-0.8MM",
+          "IN-",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ]
+      ],
+      "updateTime": 1753290240,
+      "createTime": 1753289956,
+      "histories": [],
+      "created_at": "2025-07-23 12:59:16",
+      "updated_at": "2025-07-23 13:04:00"
+    }
+  ],
+  "sort": [],
+  "title": "6coils-blue-v3",
+  "foldername": "6coils-blue-v3",
+  "schfilename": "6coils-blue-v3.json",
+  "schfilemtime": 1739720435083
+}
