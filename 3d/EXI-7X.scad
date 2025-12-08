@@ -1,6 +1,7 @@
 // Higher definition curves
 $fs = 0.01;
 
+// module for round
 module roundedcube(size = [1, 1, 1], center = false, radius = 0.5, apply_to = "all") {
 	// If single value, convert to [x, y, z] vector
 	size = (size[0] == undef) ? [size, size, size] : size;
@@ -60,22 +61,30 @@ module roundedcube(size = [1, 1, 1], center = false, radius = 0.5, apply_to = "a
 	}
 }
 
-holeoff=4.2;
-wide=86.6;
-widein=wide-1.5;
-latime=39.0;
-latimein=latime-1.5;
-screw_bord_small_h=16.5;
-screw_bord_larg_x=(wide/2)-holeoff;
-deccub=screw_bord_larg_x+6;
-clip_cube_hole_x=(wide/2)+7.51;//51.85;
-sml_ext_r=3.1;
 
-hght=20;
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+length_ext=93.0;    // length of the pickup
+width_ext=37.8;     // width
+height_exterior=22; // height    
+holes_offset=3.0;   // center of screw holes offset from left right margin
+walls_width_mm=1.5;  // walls width
+length_interior=length_ext-walls_width_mm; // the interior length
+width_interior=width_ext-walls_width_mm;   // the interior width
+
+screw_bord_small_h=16.5;
+
+
+screw_xoffset_x=(length_ext/2)-holes_offset;
+deccub=screw_xoffset_x+6;
+clip_cube_hole_x=(length_ext/2)+7.51;//51.85;
+sml_ext_r=2.8;
+
+
 int_hl=1.7;
 cuhole=5.0;
 sbh=10.0;
-solid_big_r=4.8;
+base_radius=3.5;
 
 difference(){
 
@@ -83,32 +92,32 @@ difference(){
     {
         difference() {
             
-            roundedcube([wide,latime,hght], true, 1.0,"xy");
-            translate([0,00,-6]){
-                cube([widein,latimein,30.9], center=true );
+            roundedcube([length_ext,width_ext,height_exterior], true, 1.0,"xy");
+            translate([0,0,-6]){
+                cube([length_interior,width_interior,30.9], center=true );
             }
         }
 
         union(){
             union(){
-                translate([screw_bord_larg_x,0,0]){
+                translate([screw_xoffset_x,0,0]){
                     cylinder(screw_bord_small_h,sml_ext_r,sml_ext_r,center=true);
                 }
                 // big solid cyl
-                translate([screw_bord_larg_x,0,5]){
-                    cylinder(sbh,solid_big_r,solid_big_r,center=true);
+                translate([screw_xoffset_x,0,5]){
+                    cylinder(sbh,base_radius,base_radius,center=true);
                 }
             }
         }
 
         union(){
             union(){
-                translate([-screw_bord_larg_x,0,0]){
+                translate([-screw_xoffset_x,0,0]){
                     cylinder(screw_bord_small_h,sml_ext_r,sml_ext_r,center=true);
                 }
                 // big solid cyl
-                translate([-screw_bord_larg_x,0,5]){
-                    cylinder(sbh,solid_big_r,solid_big_r,center=true);
+                translate([-screw_xoffset_x,0,5]){
+                    cylinder(sbh,base_radius,base_radius,center=true);
                 }
             }
         }
@@ -127,15 +136,15 @@ difference(){
 
         
         cube_open=8.5;
-        
+        rad_up=26;
         
         union(){
-            translate([screw_bord_larg_x,0,0]){
-                cylinder(26,int_hl,int_hl,center=true);
+            translate([screw_xoffset_x,0,0]){
+                cylinder(rad_up,int_hl,int_hl,center=true);
             }
             // cut big
-            translate([screw_bord_larg_x,0,9.8]){
-                cylinder(16,3.9,3.7,center=true);
+            translate([screw_xoffset_x,0,9.8]){
+                cylinder(16,base_radius-1,base_radius-1,center=true);
             }
             
             translate([deccub,0,9.8]){
@@ -148,11 +157,11 @@ difference(){
         }
 
         union(){
-            translate([-screw_bord_larg_x,0,0]){
-                cylinder(26,int_hl,int_hl,center=true);
+            translate([-screw_xoffset_x,0,0]){
+                cylinder(rad_up,int_hl,int_hl,center=true);
             }
-            translate([-screw_bord_larg_x,0,9.8]){
-                cylinder(16,3.7,3.7,center=true);
+            translate([-screw_xoffset_x,0,9.8]){
+                cylinder(16,base_radius-1,base_radius-1,center=true);
             }
             
             translate([-deccub,0,9.8]){
@@ -165,10 +174,11 @@ difference(){
 
         }
     }
+    /*
     CW=1.2;
-    YTR=10.4;
+    YTR=10.3;
     CH=1.5;
-    TRP=36;
+    TRP=35;
     union(){
         translate([TRP,-15,YTR]){
             rotate([45,0,0]){   
@@ -189,5 +199,5 @@ difference(){
         }
   
     }
-    
+    */
 }
