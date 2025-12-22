@@ -1,5 +1,5 @@
-a# 6 Coils Guitar Pickup
-## EXI-CCW, Six Continuous Coils Winding guitar pickup with OPA1641
+# Multi coil quitar pickup
+## EXI-CCW, Revolutionarry quitar pickup
 
 # Purchase options
 
