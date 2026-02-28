@@ -1,6 +1,11 @@
 # Multi coil quitar pickup
 ## EXI-CCW, Revolutionarry quitar pickup
 
+* Found a funny video:
+* 
+    * [![Found this funny video](https://ghitara.com/images/local_gith.png)](https://www.youtube.com/watch?v=jzLxYhG_FSU)
+ 
+    * 
 # Purchase options
 
  *  [ORDER & HERE Ver 4]([https://exi](https://ghitara.com/))
