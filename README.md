@@ -26,9 +26,10 @@ The wire runs from one coil to another continuously (see the picture). This redu
  * Output impedance:    See TL071 or OPA1641 IC's for reference. The IC has 10Ko on output.
 
 ----
-See Guitar maxim frequencies chart here: 
 
-![ccw-show](https://github.com/user-attachments/assets/264fc695-38b5-48cc-875b-a993a79dcdc8)
+First version picture:
+
+![mainx](https://github.com/user-attachments/assets/0c85060c-200a-4c38-ae68-8a7665a236b0)
 
 
 
